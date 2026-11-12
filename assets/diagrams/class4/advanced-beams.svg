@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" role="img" aria-label="330平方メートルの一室と高さ0.5メートルの梁2本。3つの部分は各110平方メートル"><style>text{font-family:system-ui,"Noto Sans JP",sans-serif;fill:#1c3546}.head{font-size:22px;font-weight:700}.label{font-size:19px;font-weight:600}.small{font-size:15px}.room{fill:#eef6fa;stroke:#334b5c;stroke-width:4}.beam{stroke:#c15d36;stroke-width:12}.dash{stroke:#607e96;stroke-width:3;stroke-dasharray:9 6}.wire{stroke:#2d6687;stroke-width:4;fill:none}.box{fill:#f2f5ff;stroke:#406382;stroke-width:3}</style>
+<rect width="850" height="380" fill="#fff"/><text x="28" y="38" class="head">取付面高さ3m／梁の突出0.5m</text>
+<rect x="55" y="85" width="735" height="205" class="room"/>
+<line x1="300" y1="86" x2="300" y2="290" class="beam"/><line x1="545" y1="86" x2="545" y2="290" class="beam"/>
+<text x="120" y="170" class="label">区域A</text><text x="110" y="208" class="label">110㎡</text>
+<text x="363" y="170" class="label">区域B</text><text x="354" y="208" class="label">110㎡</text>
+<text x="606" y="170" class="label">区域C</text><text x="598" y="208" class="label">110㎡</text>
+<text x="37" y="343" class="small">壁は外周のみ。色のついた線は梁。その他の設置制約は設問の指定による。</text>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "消防設備士 学習",
+  "short_name": "消防設備士",
+  "description": "消防設備士の解説・演習・復習",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f7",
+  "theme_color": "#153f43",
+  "icons": [
+    {"src":"./assets/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./assets/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

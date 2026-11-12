@@ -1,0 +1,6007 @@
+[
+  {
+    "id": "F4Q0001",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防法17条の消防用設備等の設置・維持義務について、正しい説明はどれか。",
+    "options": [
+      "建物の関係者は所有者・管理者であり、占有者は維持義務の対象外である。",
+      "関係者は所有者・管理者・占有者を含み、保守委託をしただけで設置維持義務が自動的に消えるわけではない。",
+      "点検業者へ委託した場合、消防用設備等の法定設置義務だけは業者へ移る。",
+      "設置義務は所有者のみが負い、管理者・占有者には及ばない。"
+    ],
+    "answer": 1,
+    "explanation": "設置・維持義務の主体は防火対象物の関係者である。工事や点検を実施する人と法的義務の主体を区別する。根拠：消防法17条。",
+    "lesson": "relation-party",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0002",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "防火対象物の「関係者」の説明として適切なものはどれか。",
+    "options": [
+      "所有者及び消防設備士だけをいう。",
+      "所有者、管理者、占有者をいう。",
+      "消防長、消防署長、所有者をいう。",
+      "設計者、施工者、点検資格者に限る。"
+    ],
+    "answer": 1,
+    "explanation": "消防法上の関係者は所有者・管理者・占有者を含む。建物の管理に関わる業者は契約関係だけで当然に関係者を全て代替するわけではない。",
+    "lesson": "relation-party",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0003",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "自動火災報知設備について、法定点検と報告の関係で正しいものはどれか。",
+    "options": [
+      "点検結果を3年ごとに報告していれば、機器点検も3年ごとでよい。",
+      "機器点検を6か月ごとに行う場合、報告も必ず6か月ごとになる。",
+      "総合点検を1年ごとに行えば、機器点検は省略できる。",
+      "所定の周期で点検し、その結果を防火対象物の区分に応じて報告する。"
+    ],
+    "answer": 3,
+    "explanation": "点検は設備の機能確認、報告は消防機関への結果提出で別の義務である。消防法17条の3の3を確認する。",
+    "lesson": "inspection-law",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0004",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "特定防火対象物の消防用設備等点検結果の報告周期について、一般原則として適切なのはどれか。",
+    "options": [
+      "3年ごと。",
+      "6か月ごと。",
+      "1年ごと。",
+      "2年ごと。"
+    ],
+    "answer": 2,
+    "explanation": "特定防火対象物は原則1年ごとの報告。機器点検の6か月、非特定防火対象物の報告3年と取り違えない。",
+    "lesson": "inspection-rate",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0005",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "非特定防火対象物について点検結果を消防機関に報告する周期の原則はどれか。",
+    "options": [
+      "6か月ごと。",
+      "1年ごと。",
+      "3年ごと。",
+      "毎月。"
+    ],
+    "answer": 2,
+    "explanation": "非特定防火対象物は原則3年ごとの報告。点検そのものが3年に1回でよい意味ではない。",
+    "lesson": "inspection-rate",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0006",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防用設備等の機器点検と総合点検の通常の周期を正しく組み合わせたものはどれか。",
+    "options": [
+      "機器点検3年、総合点検1年。",
+      "機器点検6か月、総合点検1年。",
+      "機器点検1年、総合点検6か月。",
+      "機器点検6か月、総合点検3年。"
+    ],
+    "answer": 1,
+    "explanation": "機器点検と総合点検は役割が異なり、原則は機器6か月・総合1年。消防庁の点検要領等も参照する。",
+    "lesson": "inspection-rate",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0007",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "工事の着手前の届出と、設置後の届出・検査について、正しい説明はどれか。",
+    "options": [
+      "着工届は設備の工事完了後に出し、設置届は工事着手前に出す。",
+      "着工届・設置届は目的が違っても、提出期限は同一である。",
+      "届出の時期・対象・趣旨は異なるため、同じ手続きだと考えない。",
+      "消防設備の修理・整備を含むすべての作業に着工届が必要である。"
+    ],
+    "answer": 2,
+    "explanation": "消防法17条の14は着工に関する届出、17条の3の2は設置後の届出・検査に関わる。工事の種類など対象条件も異なる。",
+    "lesson": "construction-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0008",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "「自動火災報知設備の設置対象となる用途・面積」と「感知器の取付位置」の根拠の組合せはどれか。",
+    "options": [
+      "設置対象：消防法施行規則23条／取付位置：消防法施行令21条。",
+      "設置対象：消防法17条の10／取付位置：受信機規格省令8条。",
+      "設置対象：消防法施行令23条／取付位置：消防法施行規則21条。",
+      "設置対象：消防法施行令21条／取付位置：消防法施行規則23条。"
+    ],
+    "answer": 3,
+    "explanation": "令21条は自火報を設置する防火対象物、規則23条は感知器設置方法を定める。規格省令は機器の性能を扱う。",
+    "lesson": "legal-hierarchy",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0009",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防設備の「設置基準」と「製品の技術規格」の違いについて最も適切なのはどれか。",
+    "options": [
+      "設置基準は主に機器の絶縁性能・耐久性能、製品規格は建物の用途・面積を定める。",
+      "製品の型式適合が認められれば、設置場所や設置個数の基準も満たしたものとみなされる。",
+      "設置基準と技術規格は、同一の技術試験によって一括して審査する制度である。",
+      "前者は建物への配置・必要性など、後者は機器自体の構造・性能などに関わる。"
+    ],
+    "answer": 3,
+    "explanation": "建物にどこへ何を設けるかと、機器がどんな性能を有するべきかは別問題である。",
+    "lesson": "legal-hierarchy",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0010",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "建物の消防用設備等の設置要否を判断する際、第一に確認すべき情報の組合せはどれか。",
+    "options": [
+      "用途区分・延べ面積・階や部分の条件。",
+      "受信機の型式と感知器の感度種別だけで設置義務を判定する。",
+      "延べ面積と建物の築年数のみで、用途によらず一律に判定する。",
+      "消防用設備等の設置済み台数を先に数え、設置義務の有無を逆算する。"
+    ],
+    "answer": 0,
+    "explanation": "設置義務は消防法施行令の用途区分や面積などによる。特定階などの条件や例外を確認する。",
+    "lesson": "fire-classes",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0011",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "特定防火対象物の説明として最も適切なのはどれか。",
+    "options": [
+      "特定防火対象物の指定は、すべて延べ面積1,000㎡以上という規模条件だけで決まる。",
+      "特定防火対象物のうち延べ面積1,000㎡未満は、消防用設備等の点検義務がない。",
+      "用途など消防法令上の区分により定められ、単に延べ面積の大小で決まる名称ではない。",
+      "特定防火対象物という区分は、設備の設置数だけにより決まる。"
+    ],
+    "answer": 2,
+    "explanation": "用途区分は施行令別表第一等を基礎に判断する。面積だけで特定・非特定を判定することはできない。",
+    "lesson": "fire-classes",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0012",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "乙4の免除なし筆記試験で、法令8/10、電気の基礎1/5、構造・機能12/15の正答だった。合格基準との関係で適切なのはどれか。",
+    "options": [
+      "総合点は21/30で60%を超えるが、電気の基礎が40%未満なので筆記基準を満たさない。",
+      "総合点が60%を超えるので筆記は必ず基準を満たす。",
+      "法令8/10を取れば他の科目の得点は問わない。",
+      "実技が満点なら筆記の科目別基準は適用されない。"
+    ],
+    "answer": 0,
+    "explanation": "電気の基礎1/5は20%で、科目別40%を満たさない。他の科目と合計が高くても足切りの対象。",
+    "lesson": "exam-score",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0013",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "甲4の免除なし筆記で、法令6/15、電気基礎4/10、構造機能17/20だった。筆記の基準について正しいものはどれか。",
+    "options": [
+      "電気基礎4/10では科目別40%を満たさない。",
+      "合計27/45=60%、かつ各科目は40%以上なので筆記基準を満たす。",
+      "合計27/45は60%未満である。",
+      "法令が60%未満なので必ず不合格となる。"
+    ],
+    "answer": 1,
+    "explanation": "法令40%、基礎40%、構造85%、合計60%。筆記基準に達する。ただし別途実技60%以上が必要。",
+    "lesson": "exam-score",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0014",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "甲種第4類と乙種第4類の免状の効力の比較として正しいものはどれか。",
+    "options": [
+      "乙種第4類では全類の警報設備の工事を行える。",
+      "甲種は対象設備の工事・整備、乙種は対象設備の整備を資格範囲とする。",
+      "両方とも新設工事のみを資格範囲とし整備は含まない。",
+      "甲種は整備のみ、乙種は工事のみを資格範囲とする。"
+    ],
+    "answer": 1,
+    "explanation": "甲と乙の基本的な違いは「工事」を扱えるかどうか。電気工事士法等の別要件はさらに確認する。",
+    "lesson": "roles4",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0015",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防設備士の免状の写真書換え期限と免状の効力に関して正しいものはどれか。",
+    "options": [
+      "写真の書換え義務と、免状が自動的に失効するかどうかは別に考える。",
+      "写真の書換えをしないだけで免状は必ず自動的に失効する。",
+      "写真書換えと講習の受講は全く同じ手続きである。",
+      "消防設備士の免状には写真が存在しない。"
+    ],
+    "answer": 0,
+    "explanation": "免状の書換えを定める規定と、免状の効力の有無は異なる。期限が来たら所定の書換え手続きを行う。",
+    "lesson": "licence-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0016",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "法定点検で感知器の不作動が判明した。対応として適切なのはどれか。",
+    "options": [
+      "不作動の感知器があっても受信機表示が正常なら、記録は「良好」とする。",
+      "点検した部分に不良がある場合も、点検を行った事実だけを記録してよい。",
+      "不具合を点検結果へ記録し、原因調査や必要な整備を検討する。",
+      "不良箇所は受信機側の履歴が残るので、点検票には記録しなくてよい。"
+    ],
+    "answer": 2,
+    "explanation": "点検と整備は異なる。点検は不具合を見つけ記録し、適切な改修へつなげる行為。",
+    "lesson": "reports-content",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0017",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "点検のため一時的に連動停止スイッチを操作した。作業終了時の原則として適切なのはどれか。",
+    "options": [
+      "連動の復元は次回の年次点検まで不要とする。",
+      "連動が本来の状態に復元されたことを確認する。",
+      "点検後に受信機の電源だけ切っておく。",
+      "故障が起きないよう連動停止状態を恒久化する。"
+    ],
+    "answer": 1,
+    "explanation": "消防庁点検要領は連動回路・音響停止等を点検終了後に復元する旨を示す。保守により安全機能を低下させたままにしない。",
+    "lesson": "maintenance-flow",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0018",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防法上の「設置・維持義務」と「違反に対する行政権限」について正しいものはどれか。",
+    "options": [
+      "関係者は点検報告のみを負い、消防用設備等の設置・維持義務は消防署長にある。",
+      "消防設備士は、点検で不良を見つけると消防長の是正命令権限を当然に行使できる。",
+      "消防長・消防署長は、関係者の設備設置・維持の基準違反について指導・命令を行う権限を持たない。",
+      "設置維持義務の原則的主体は関係者であり、消防長・消防署長等は法に基づく権限を有する。"
+    ],
+    "answer": 3,
+    "explanation": "消防法17条等の義務の主体と、消防行政の権限を持つ者を区別する。",
+    "lesson": "fire-inspection",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0019",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "有資格者による消防用設備等点検の必要性に関する適切な説明はどれか。",
+    "options": [
+      "防火対象物の規模・用途等に応じて有資格者点検が必要な場合がある。",
+      "小規模の建物を含め全ての防火対象物で消防設備士のみが点検できる。",
+      "どんな建物でも関係者本人の無資格点検のみでよい。",
+      "点検資格者は消防設備士の免状と全く同じ資格である。"
+    ],
+    "answer": 0,
+    "explanation": "消防法17条の3の3は対象となる建物・点検者の資格等を区分する。点検資格者と消防設備士を混同しない。",
+    "lesson": "inspection-law",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0020",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防設備士の法定講習と写真書換えについて、適切な考え方はどれか。",
+    "options": [
+      "法定講習は免状を新規取得した人には一切関係しない。",
+      "講習を受講した人は免状の写真書換え制度の対象外になる。",
+      "写真書換え手続きを行えば法定講習の履修も自動的に完了する。",
+      "それぞれ趣旨と手続きが異なるため、同一の期限・効果として扱わない。"
+    ],
+    "answer": 3,
+    "explanation": "講習は知識・技能の更新、写真書換えは免状の記載更新として別の手続きである。",
+    "lesson": "licence-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0021",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "劇場の自動火災報知設備について、原則の一般的な設置条件の一つとして正しいものはどれか（特例や別条件は考慮しない）。",
+    "options": [
+      "延べ面積50㎡以上。",
+      "延べ面積300㎡以上。",
+      "延べ面積1,000㎡以上。",
+      "延べ面積200㎡以上。"
+    ],
+    "answer": 1,
+    "explanation": "劇場等は消防法施行令21条により延べ面積300㎡以上が一般的な設置条件の一つ。例外や階・部分の条件が別途あることにも注意。",
+    "lesson": "installation-target",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0022",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "劇場について、延べ面積250㎡だから自火報は絶対に不要と言い切る説明は適切か。",
+    "options": [
+      "令21条は特定防火対象物の一般面積基準のみを定め、地下階等の条件は含まない。",
+      "劇場の延べ面積が基準未満なら、無窓階などの部分的条件による設置義務は検討不要である。",
+      "延べ面積の一般基準を下回る場合、他の規定で自火報が必要になることはない。",
+      "他の階や部分の条件などを見ずに断定するのは不適切。"
+    ],
+    "answer": 3,
+    "explanation": "面積の一般基準は判断材料の一つに過ぎない。令21条には部分・階・用途等による追加要件がある。",
+    "lesson": "installation-target",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0023",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "火災を発見した人がボタンを押して受信機へ火災信号を送る機器はどれか。",
+    "options": [
+      "差動式スポット型感知器。",
+      "主音響装置。",
+      "発信機。",
+      "中継器の電源端子。"
+    ],
+    "answer": 2,
+    "explanation": "発信機は人が手動で操作する。感知器は自動検知、受信機は受信、音響装置は警報する。",
+    "lesson": "fire4-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0024",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "感知器・発信機・受信機・地区音響装置の説明として最も適切なのはどれか。",
+    "options": [
+      "地区音響装置は受信機に入る火災信号を検出し、感知器は警報音を出す。",
+      "感知器や発信機からの信号を受信機が受け、地区音響装置などで火災を知らせる。",
+      "発信機は人が手動操作するが、信号は受信機を経ず直接消防機関へ伝わることが必須である。",
+      "受信機は地区音響装置が発した音を検出し、その後に感知器を動作させる。"
+    ],
+    "answer": 1,
+    "explanation": "機器の役割は感知・手動発信・受信制御・報知という流れ。似た用語でも入力と出力を区別する。",
+    "lesson": "fire4-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0025",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "館内の地区ベルが鳴動したとき、消防機関への通報について適切なのはどれか。",
+    "options": [
+      "地区音響装置の用途は消防署への電話回線接続に限られる。",
+      "ベルの鳴動だけでは消防機関への通報が完了したとは断定できない。",
+      "受信機には通報設備を接続できず消防機関への通報は不可能である。",
+      "ベルが鳴れば消防機関へ必ず自動的に通報済みである。"
+    ],
+    "answer": 1,
+    "explanation": "館内へ報知する地区音響装置と、消防機関へ通報する設備は目的が違う。連動の有無は設備仕様で判断する。",
+    "lesson": "notification-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0026",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "ガス漏れ火災警報設備と漏電火災警報器を比べた説明として正しいものはどれか。",
+    "options": [
+      "どちらも第4類の資格だけですべて整備できる。",
+      "漏電火災警報器は消火器と同じ乙種第6類の対象である。",
+      "ガス漏れ火災警報設備は第1類の消火設備に分類される。",
+      "ガス漏れ火災警報設備は第4類、漏電火災警報器は乙種第7類の対象。"
+    ],
+    "answer": 3,
+    "explanation": "似た名前でも検出対象と類別が異なる。ガス漏れは第4類、漏電火災警報器は乙7。",
+    "lesson": "gas-leak-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0027",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "ガス漏れ検知器と煙感知器の働きの比較で正しいものはどれか。",
+    "options": [
+      "煙感知器は可燃性ガスの濃度測定だけが目的である。",
+      "両方とも電気配線の漏電電流だけを測定する。",
+      "ガス漏れ検知器は火災による熱膨張速度しか検出できない。",
+      "ガス漏れ検知器はガスの漏えいを、煙感知器は火災による煙を主に検出する。"
+    ],
+    "answer": 3,
+    "explanation": "何を検知するかで装置の役割が異なる。誤報の原因や取り付け位置も検出対象に影響される。",
+    "lesson": "gas-leak-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0028",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "設置可能な感知器の種別が天井の高さによって変わる理由として正しいものはどれか。",
+    "options": [
+      "火災で生じた熱や煙が感知器に届くまでの状態が高さによって変わるため。",
+      "天井高さが高いほど、火災の熱は均一に伝わり、感知器の型式に関係なく同一位置で検知できるため。",
+      "感知器の受信機への通信方式は取付面高さのみで決まるため。",
+      "法令はすべての感知器について、取付面高さに応じた検出原理の変更を義務付けているため。"
+    ],
+    "answer": 0,
+    "explanation": "規則23条は高さに応じた感知器種別を定める。高天井では熱・煙の到達条件が異なる。",
+    "lesson": "smoke-heat-rule",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0029",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "感知器の取付面の高さが10mで、通常の差動式スポット型を選ぶという設計について適切なのはどれか（特別な代替規定なし）。",
+    "options": [
+      "高さの規定は消火器だけに適用される。",
+      "規則23条の高さ別の適応種別を確認する必要があり、通常の差動式スポット型は該当高さの表に含まれない。",
+      "差動式スポット型は高さに関係なく無条件に適用可能である。",
+      "天井高さ10mは4m未満なので全ての感知器が使える。"
+    ],
+    "answer": 1,
+    "explanation": "規則23条の表では8m以上15m未満に差動式スポット型が含まれない。適用種別を間違えない。",
+    "lesson": "height-selection",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0030",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "警戒区域と感知区域の違いとして正しいものはどれか。",
+    "options": [
+      "警戒区域は単独感知器が監視する最小区画で、感知区域は受信機の地区表示単位である。",
+      "警戒区域は感知器の取付高さだけで決まり、感知区域は受信機の回線数でのみ決まる。",
+      "警戒区域は火災場所の表示・把握の区分、感知区域は感知器による検出の区画に関わる。",
+      "警戒区域と感知区域は常に同一の範囲となるため、図面ではどちらか一方の記載で足りる。"
+    ],
+    "answer": 2,
+    "explanation": "警戒区域は火災表示を分ける設計、感知区域は壁や梁等で熱・煙の広がりが分かれる範囲。意味が異なる。",
+    "lesson": "area-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0031",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "自火報の設置義務を判定する際の適切な順番はどれか。",
+    "options": [
+      "建物の用途に関係なく、最初に感知器のメーカーと型式を決めてから法定の必要性を判定する。",
+      "受信機の回線数が必要数を上回れば、設置義務の確認は省略できる。",
+      "延べ面積が一般基準を下回れば、地下階等の追加要件も確認しなくてよい。",
+      "用途区分を決め、一般面積条件と階・部分等の追加条件を順番に確認する。"
+    ],
+    "answer": 3,
+    "explanation": "消防法施行令21条は複数の該当要件を持つ。面積だけで条件を見落とさないことが重要。",
+    "lesson": "installation-law-exception",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0032",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "自火報の設置対象の判断について最も適切なのはどれか。",
+    "options": [
+      "用途だけでなく地下階・無窓階・高層階などの部分的な条件も確認する。",
+      "延べ面積だけで判定し、無窓階や地階の扱いは感知器の取付位置の検討時だけ考慮する。",
+      "消防用設備の種類は建物の用途に関係なく、すべて自火報が必要と定められている。",
+      "用途区分と延べ面積が分かれば、階や部分の条件を別に調べる必要はない。"
+    ],
+    "answer": 0,
+    "explanation": "用途・面積の一般要件以外に階や部分の条件がある。別表第一等と併せて判断する。",
+    "lesson": "installation-target",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0033",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "消防法令の自火報について「設置基準」と「製品規格」を区別したものはどれか。",
+    "options": [
+      "感知器の高さ別の選択基準は施行規則、感知器の性能・構造は規格省令で扱う。",
+      "感知器の型式検定に適合していれば、法令上の取付高さの制限は適用されない。",
+      "感知器の設置場所は規格省令で、感知器自体の性能は施行令第21条で決める。",
+      "感知器の製品性能と建物への配置条件は、施行規則第23条だけですべて規定する。"
+    ],
+    "answer": 0,
+    "explanation": "建物への配置と製品性能は別の技術基準である。例：規則23条と感知器・発信機規格省令。",
+    "lesson": "smoke-heat-rule",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0034",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "受信機の地区表示と警戒区域について正しい説明はどれか。",
+    "options": [
+      "地区表示は感知器の型式のみを示し、建物内の場所を識別する用途ではない。",
+      "受信機に火災表示機能があれば、警戒区域との対応付けは不要である。",
+      "警戒区域は点検のための区分であり、火災時の場所特定には利用しない。",
+      "火災発生のおおよその場所を把握できるよう、区域と受信機表示の対応が重要になる。"
+    ],
+    "answer": 3,
+    "explanation": "警戒区域は火災の場所を分かりやすくするための区分。平面図と受信機表示を対応させる。",
+    "lesson": "area-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0035",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "発信機と感知器の設置目的について適切な説明はどれか。",
+    "options": [
+      "発信機は人の操作で受信機へ信号を送るが、感知器からの信号とは別の受信機へしか入力できない。",
+      "感知器が自動検出した信号は必ず消防機関へ直接送られ、受信機を通らない。",
+      "発信機は人が手動で火災を知らせる、感知器は火災の兆候を自動検出する。",
+      "感知器は熱・煙を自動検出するが、発信機も火災の熱だけで自動作動する装置である。"
+    ],
+    "answer": 2,
+    "explanation": "感知器と発信機の主たる違いは「自動検知か手動発信か」である。製品の型式はさらに区分される。",
+    "lesson": "installation-fp",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0036",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "受信機の火災表示が作動した一方で地区音響装置が鳴らなかった。この事実から言える最も適切なことはどれか。",
+    "options": [
+      "受信機の表示系と音響・連動系の状態を分けて点検する必要がある。",
+      "消防機関への自動通報が必ず完了している。",
+      "火災は絶対に起きていないことが確定する。",
+      "全感知器が同時に故障したことが確定する。"
+    ],
+    "answer": 0,
+    "explanation": "火災表示と音響出力は異なる機能で、停止操作・配線・電源など別の原因候補がある。",
+    "lesson": "receiver-role",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0037",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "次のうち自火報の警戒区域を設定する考え方として適切なのはどれか。",
+    "options": [
+      "階・面積・建物の構造など、適用する基準を確認して地区表示を整理する。",
+      "警戒区域は感知器の製造年月が同じものをひとまとめにして設定する。",
+      "建物全体が一つの防火対象物なら、階をまたいでも原則として一つの警戒区域にする。",
+      "警戒区域は防火区画と必ず同じ大きさになるので、警戒区域固有の検討は不要である。"
+    ],
+    "answer": 0,
+    "explanation": "受信機の地区表示で火災位置を特定できることが重要。規則上の区域条件に従う。",
+    "lesson": "area-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0038",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "「消防機関へ通報する火災報知設備」の役割として適切なのはどれか。",
+    "options": [
+      "火災に関する通報を消防機関へ伝える設備。",
+      "消防機関へ通報する設備は館内の地区ベルを鳴動させるだけで、消防機関へ信号を送らない。",
+      "消防機関へ通報する設備は自火報の全感知器を直接監視する受信機の型式名である。",
+      "消防機関への通報設備を設置すれば、消防法令で必要な館内の報知設備はすべて不要になる。"
+    ],
+    "answer": 0,
+    "explanation": "消防機関へ通報することを主たる役割とする。館内放送・地区ベルとの違いを整理する。",
+    "lesson": "notification-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0039",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "次の設備の組合せのうち、第4類に属するものだけを含むのはどれか。",
+    "options": [
+      "ガス漏れ火災警報設備と屋内消火栓設備。",
+      "消防機関へ通報する火災報知設備と粉末消火設備。",
+      "自動火災報知設備とガス漏れ火災警報設備。",
+      "自動火災報知設備と漏電火災警報器。"
+    ],
+    "answer": 2,
+    "explanation": "第4類には自火報・ガス漏れ火災警報・消防機関通報の設備などがある。漏電は乙7、消火栓は1類、粉末消火設備は3類。",
+    "lesson": "class4-devices",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0040",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】18Vの電源に6Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "108A",
+      "3A",
+      "1.5A",
+      "0.3333A"
+    ],
+    "answer": 1,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝18/6＝3A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0041",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】48Vの電源に12Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "576A",
+      "2A",
+      "0.25A",
+      "4A"
+    ],
+    "answer": 3,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝48/12＝4A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0042",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】15Vの電源に5Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "0.3333A",
+      "3A",
+      "75A",
+      "1.5A"
+    ],
+    "answer": 1,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝15/5＝3A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0043",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】36Vの電源に9Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "4A",
+      "0.25A",
+      "324A",
+      "2A"
+    ],
+    "answer": 0,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝36/9＝4A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0044",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】30Vの電源に10Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "3A",
+      "0.3333A",
+      "300A",
+      "1.5A"
+    ],
+    "answer": 0,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝30/10＝3A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0045",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "【直流回路】24Vの電源に4Ωの理想抵抗を接続した。抵抗に流れる電流はどれか。",
+    "options": [
+      "6A",
+      "96A",
+      "3A",
+      "0.1667A"
+    ],
+    "answer": 0,
+    "explanation": "オームの法則 V＝IR から I＝V/R＝24/4＝6A。電圧を抵抗で割る。電力V×Iとは異なる。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0046",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "ある抵抗に直流12Vを加えると0.4A流れた。抵抗値はどれか。",
+    "options": [
+      "30Ω",
+      "4.8Ω",
+      "3Ω",
+      "0.03333Ω"
+    ],
+    "answer": 0,
+    "explanation": "R＝V/I＝12/0.4＝30Ω。AとmAが混在していたら先に揃える。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0047",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "ある抵抗に直流24Vを加えると0.8A流れた。抵抗値はどれか。",
+    "options": [
+      "19.2Ω",
+      "3Ω",
+      "30Ω",
+      "0.03333Ω"
+    ],
+    "answer": 2,
+    "explanation": "R＝V/I＝24/0.8＝30Ω。AとmAが混在していたら先に揃える。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0048",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "ある抵抗に直流30Vを加えると0.5A流れた。抵抗値はどれか。",
+    "options": [
+      "60Ω",
+      "15Ω",
+      "6Ω",
+      "0.01667Ω"
+    ],
+    "answer": 0,
+    "explanation": "R＝V/I＝30/0.5＝60Ω。AとmAが混在していたら先に揃える。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0049",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "ある抵抗に直流18Vを加えると0.3A流れた。抵抗値はどれか。",
+    "options": [
+      "5.4Ω",
+      "60Ω",
+      "6Ω",
+      "0.01667Ω"
+    ],
+    "answer": 1,
+    "explanation": "R＝V/I＝18/0.3＝60Ω。AとmAが混在していたら先に揃える。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0050",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "ある抵抗に直流36Vを加えると0.6A流れた。抵抗値はどれか。",
+    "options": [
+      "6Ω",
+      "21.6Ω",
+      "0.01667Ω",
+      "60Ω"
+    ],
+    "answer": 3,
+    "explanation": "R＝V/I＝36/0.6＝60Ω。AとmAが混在していたら先に揃える。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0051",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗8Ωに0.5Aを流した。抵抗の両端の電圧はいくらか。",
+    "options": [
+      "0.0625V",
+      "4V",
+      "16V",
+      "40V"
+    ],
+    "answer": 1,
+    "explanation": "V＝IR＝8×0.5＝4V。電流の値を先にアンペアで扱う。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0052",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗12Ωに0.25Aを流した。抵抗の両端の電圧はいくらか。",
+    "options": [
+      "0.02083V",
+      "30V",
+      "3V",
+      "48V"
+    ],
+    "answer": 2,
+    "explanation": "V＝IR＝12×0.25＝3V。電流の値を先にアンペアで扱う。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0053",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗3Ωに2Aを流した。抵抗の両端の電圧はいくらか。",
+    "options": [
+      "0.6667V",
+      "1.5V",
+      "6V",
+      "60V"
+    ],
+    "answer": 2,
+    "explanation": "V＝IR＝3×2＝6V。電流の値を先にアンペアで扱う。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0054",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗20Ωに0.4Aを流した。抵抗の両端の電圧はいくらか。",
+    "options": [
+      "50V",
+      "0.02V",
+      "80V",
+      "8V"
+    ],
+    "answer": 3,
+    "explanation": "V＝IR＝20×0.4＝8V。電流の値を先にアンペアで扱う。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0055",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗15Ωに0.2Aを流した。抵抗の両端の電圧はいくらか。",
+    "options": [
+      "0.01333V",
+      "3V",
+      "30V",
+      "75V"
+    ],
+    "answer": 1,
+    "explanation": "V＝IR＝15×0.2＝3V。電流の値を先にアンペアで扱う。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0056",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "4Ωと8Ωを直列に接続し、全体に直流24Vを加えた。8Ωの両端の電圧はどれか。",
+    "options": [
+      "8V",
+      "16V",
+      "24V",
+      "32V"
+    ],
+    "answer": 1,
+    "explanation": "直列は合成抵抗4+8＝12Ω。電流I＝24/12＝2A、求める電圧は2×8＝16V。2つの電圧の合計は24V。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0057",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "3Ωと6Ωを直列に接続し、全体に直流18Vを加えた。6Ωの両端の電圧はどれか。",
+    "options": [
+      "18V",
+      "6V",
+      "12V",
+      "24V"
+    ],
+    "answer": 2,
+    "explanation": "直列は合成抵抗3+6＝9Ω。電流I＝18/9＝2A、求める電圧は2×6＝12V。2つの電圧の合計は18V。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0058",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "10Ωと5Ωを直列に接続し、全体に直流30Vを加えた。5Ωの両端の電圧はどれか。",
+    "options": [
+      "30V",
+      "10V",
+      "5V",
+      "20V"
+    ],
+    "answer": 1,
+    "explanation": "直列は合成抵抗10+5＝15Ω。電流I＝30/15＝2A、求める電圧は2×5＝10V。2つの電圧の合計は30V。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0059",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "2Ωと8Ωを直列に接続し、全体に直流20Vを加えた。8Ωの両端の電圧はどれか。",
+    "options": [
+      "20V",
+      "16V",
+      "8V",
+      "4V"
+    ],
+    "answer": 1,
+    "explanation": "直列は合成抵抗2+8＝10Ω。電流I＝20/10＝2A、求める電圧は2×8＝16V。2つの電圧の合計は20V。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0060",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "9Ωと3Ωを直列に接続し、全体に直流36Vを加えた。3Ωの両端の電圧はどれか。",
+    "options": [
+      "36V",
+      "9V",
+      "3V",
+      "27V"
+    ],
+    "answer": 1,
+    "explanation": "直列は合成抵抗9+3＝12Ω。電流I＝36/12＝3A、求める電圧は3×3＝9V。2つの電圧の合計は36V。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0061",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗6Ωと3Ωを並列につなぎ、両端に24Vを加えた。電源から流れる全電流はどれか。",
+    "options": [
+      "12A",
+      "4A",
+      "8A",
+      "2.667A"
+    ],
+    "answer": 0,
+    "explanation": "並列では各枝の電圧が24V。I1＝24/6＝4A、I2＝24/3＝8A。合計12A。合成抵抗は約2Ω。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0062",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗4Ωと12Ωを並列につなぎ、両端に12Vを加えた。電源から流れる全電流はどれか。",
+    "options": [
+      "0.75A",
+      "4A",
+      "1A",
+      "3A"
+    ],
+    "answer": 1,
+    "explanation": "並列では各枝の電圧が12V。I1＝12/4＝3A、I2＝12/12＝1A。合計4A。合成抵抗は約3Ω。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0063",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗10Ωと5Ωを並列につなぎ、両端に30Vを加えた。電源から流れる全電流はどれか。",
+    "options": [
+      "2A",
+      "3A",
+      "6A",
+      "9A"
+    ],
+    "answer": 3,
+    "explanation": "並列では各枝の電圧が30V。I1＝30/10＝3A、I2＝30/5＝6A。合計9A。合成抵抗は約3.333Ω。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0064",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗9Ωと6Ωを並列につなぎ、両端に18Vを加えた。電源から流れる全電流はどれか。",
+    "options": [
+      "1.2A",
+      "3A",
+      "2A",
+      "5A"
+    ],
+    "answer": 3,
+    "explanation": "並列では各枝の電圧が18V。I1＝18/9＝2A、I2＝18/6＝3A。合計5A。合成抵抗は約3.6Ω。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0065",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗6Ωと3Ωを並列につなぎ、両端に36Vを加えた。電源から流れる全電流はどれか。",
+    "options": [
+      "6A",
+      "12A",
+      "4A",
+      "18A"
+    ],
+    "answer": 3,
+    "explanation": "並列では各枝の電圧が36V。I1＝36/6＝6A、I2＝36/3＝12A。合計18A。合成抵抗は約2Ω。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0066",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流24Vで0.75Aを消費する装置の電力はいくらか。",
+    "options": [
+      "18W",
+      "32W",
+      "9W",
+      "180W"
+    ],
+    "answer": 0,
+    "explanation": "電力P＝VI＝24×0.75＝18W。電力量Whと区別する。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0067",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流12Vで1.5Aを消費する装置の電力はいくらか。",
+    "options": [
+      "18W",
+      "180W",
+      "9W",
+      "8W"
+    ],
+    "answer": 0,
+    "explanation": "電力P＝VI＝12×1.5＝18W。電力量Whと区別する。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0068",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流36Vで0.25Aを消費する装置の電力はいくらか。",
+    "options": [
+      "144W",
+      "9W",
+      "90W",
+      "4.5W"
+    ],
+    "answer": 1,
+    "explanation": "電力P＝VI＝36×0.25＝9W。電力量Whと区別する。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0069",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流48Vで0.5Aを消費する装置の電力はいくらか。",
+    "options": [
+      "24W",
+      "12W",
+      "240W",
+      "96W"
+    ],
+    "answer": 0,
+    "explanation": "電力P＝VI＝48×0.5＝24W。電力量Whと区別する。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0070",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流30Vで0.4Aを消費する装置の電力はいくらか。",
+    "options": [
+      "6W",
+      "12W",
+      "120W",
+      "75W"
+    ],
+    "answer": 1,
+    "explanation": "電力P＝VI＝30×0.4＝12W。電力量Whと区別する。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0071",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "消費電力12Wの装置を2時間動かす。電力量はどれか。",
+    "options": [
+      "24Wh",
+      "12Wh",
+      "1440Wh",
+      "6Wh"
+    ],
+    "answer": 0,
+    "explanation": "電力量＝電力×時間＝12W×2h＝24Wh。WとWhを取り違えない。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0072",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "消費電力20Wの装置を3時間動かす。電力量はどれか。",
+    "options": [
+      "6.667Wh",
+      "60Wh",
+      "20Wh",
+      "3600Wh"
+    ],
+    "answer": 1,
+    "explanation": "電力量＝電力×時間＝20W×3h＝60Wh。WとWhを取り違えない。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0073",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "消費電力30Wの装置を0.5時間動かす。電力量はどれか。",
+    "options": [
+      "15Wh",
+      "60Wh",
+      "30Wh",
+      "900Wh"
+    ],
+    "answer": 0,
+    "explanation": "電力量＝電力×時間＝30W×0.5h＝15Wh。WとWhを取り違えない。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0074",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "消費電力8Wの装置を4時間動かす。電力量はどれか。",
+    "options": [
+      "2Wh",
+      "1920Wh",
+      "8Wh",
+      "32Wh"
+    ],
+    "answer": 3,
+    "explanation": "電力量＝電力×時間＝8W×4h＝32Wh。WとWhを取り違えない。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0075",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "0.4Aの電流が5分間流れたときの電荷量はいくらか。",
+    "options": [
+      "1200C",
+      "2C",
+      "240C",
+      "120C"
+    ],
+    "answer": 3,
+    "explanation": "Q＝It。5分＝300秒だから0.4×300＝120C。時間は秒単位を使う。",
+    "lesson": "charge-time",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0076",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "0.2Aの電流が10分間流れたときの電荷量はいくらか。",
+    "options": [
+      "240C",
+      "2C",
+      "120C",
+      "1200C"
+    ],
+    "answer": 2,
+    "explanation": "Q＝It。10分＝600秒だから0.2×600＝120C。時間は秒単位を使う。",
+    "lesson": "charge-time",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0077",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "0.75Aの電流が4分間流れたときの電荷量はいくらか。",
+    "options": [
+      "3C",
+      "360C",
+      "180C",
+      "1800C"
+    ],
+    "answer": 2,
+    "explanation": "Q＝It。4分＝240秒だから0.75×240＝180C。時間は秒単位を使う。",
+    "lesson": "charge-time",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0078",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "1.2Aの電流が2分間流れたときの電荷量はいくらか。",
+    "options": [
+      "2.4C",
+      "288C",
+      "1440C",
+      "144C"
+    ],
+    "answer": 3,
+    "explanation": "Q＝It。2分＝120秒だから1.2×120＝144C。時間は秒単位を使う。",
+    "lesson": "charge-time",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0079",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想変圧器の一次巻数500回・二次巻数100回、一次電圧100Vとする。二次電圧はどれか。",
+    "options": [
+      "40V",
+      "500V",
+      "20V",
+      "100V"
+    ],
+    "answer": 2,
+    "explanation": "一次/二次の電圧比は巻数比。V2＝100×100/500＝20V。理想変圧器の仮定に注意。",
+    "lesson": "transformer4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0080",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想変圧器の一次巻数1000回・二次巻数250回、一次電圧200Vとする。二次電圧はどれか。",
+    "options": [
+      "50V",
+      "200V",
+      "100V",
+      "800V"
+    ],
+    "answer": 0,
+    "explanation": "一次/二次の電圧比は巻数比。V2＝200×250/1000＝50V。理想変圧器の仮定に注意。",
+    "lesson": "transformer4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0081",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想変圧器の一次巻数600回・二次巻数200回、一次電圧120Vとする。二次電圧はどれか。",
+    "options": [
+      "360V",
+      "80V",
+      "40V",
+      "120V"
+    ],
+    "answer": 2,
+    "explanation": "一次/二次の電圧比は巻数比。V2＝120×200/600＝40V。理想変圧器の仮定に注意。",
+    "lesson": "transformer4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0082",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想変圧器の一次巻数400回・二次巻数80回、一次電圧100Vとする。二次電圧はどれか。",
+    "options": [
+      "500V",
+      "40V",
+      "100V",
+      "20V"
+    ],
+    "answer": 3,
+    "explanation": "一次/二次の電圧比は巻数比。V2＝100×80/400＝20V。理想変圧器の仮定に注意。",
+    "lesson": "transformer4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0083",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "容量100µFのコンデンサを10Vまで充電する。蓄積電荷はどれか（理想とする）。",
+    "options": [
+      "0.1mC",
+      "1mC",
+      "10mC",
+      "2mC"
+    ],
+    "answer": 1,
+    "explanation": "Q＝CV。100µF＝100×10⁻⁶F。10Vを掛けて1mC。µ（マイクロ）は10⁻⁶、m（ミリ）は10⁻³。",
+    "lesson": "capacitance4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0084",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "容量200µFのコンデンサを5Vまで充電する。蓄積電荷はどれか（理想とする）。",
+    "options": [
+      "10mC",
+      "0.1mC",
+      "40mC",
+      "1mC"
+    ],
+    "answer": 3,
+    "explanation": "Q＝CV。200µF＝200×10⁻⁶F。5Vを掛けて1mC。µ（マイクロ）は10⁻⁶、m（ミリ）は10⁻³。",
+    "lesson": "capacitance4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0085",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "容量50µFのコンデンサを20Vまで充電する。蓄積電荷はどれか（理想とする）。",
+    "options": [
+      "0.1mC",
+      "10mC",
+      "1mC",
+      "2.5mC"
+    ],
+    "answer": 2,
+    "explanation": "Q＝CV。50µF＝50×10⁻⁶F。20Vを掛けて1mC。µ（マイクロ）は10⁻⁶、m（ミリ）は10⁻³。",
+    "lesson": "capacitance4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0086",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "容量500µFのコンデンサを4Vまで充電する。蓄積電荷はどれか（理想とする）。",
+    "options": [
+      "2mC",
+      "20mC",
+      "0.2mC",
+      "125mC"
+    ],
+    "answer": 0,
+    "explanation": "Q＝CV。500µF＝500×10⁻⁶F。4Vを掛けて2mC。µ（マイクロ）は10⁻⁶、m（ミリ）は10⁻³。",
+    "lesson": "capacitance4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0087",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "周波数50Hzの正弦波交流の周期はどれか。",
+    "options": [
+      "2ms",
+      "20ms",
+      "40ms",
+      "50ms"
+    ],
+    "answer": 1,
+    "explanation": "周期T＝1/f秒。1秒＝1000msなので1000/50＝20ms。周波数が上がるほど周期は短くなる。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0088",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "周波数25Hzの正弦波交流の周期はどれか。",
+    "options": [
+      "80ms",
+      "40ms",
+      "4ms",
+      "25ms"
+    ],
+    "answer": 1,
+    "explanation": "周期T＝1/f秒。1秒＝1000msなので1000/25＝40ms。周波数が上がるほど周期は短くなる。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0089",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "周波数100Hzの正弦波交流の周期はどれか。",
+    "options": [
+      "1ms",
+      "20ms",
+      "10ms",
+      "100ms"
+    ],
+    "answer": 2,
+    "explanation": "周期T＝1/f秒。1秒＝1000msなので1000/100＝10ms。周波数が上がるほど周期は短くなる。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0090",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "周波数40Hzの正弦波交流の周期はどれか。",
+    "options": [
+      "25ms",
+      "40ms",
+      "2.5ms",
+      "50ms"
+    ],
+    "answer": 0,
+    "explanation": "周期T＝1/f秒。1秒＝1000msなので1000/40＝25ms。周波数が上がるほど周期は短くなる。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0091",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "正弦波交流の実効電圧が100Vであるとき、最大電圧に最も近いのはどれか。",
+    "options": [
+      "100V",
+      "200V",
+      "141V",
+      "71V"
+    ],
+    "answer": 2,
+    "explanation": "正弦波の最大値＝実効値×√2 ≈ 100×1.414＝141V。実効値が最大値ではない。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0092",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "正弦波交流の実効電圧が50Vであるとき、最大電圧に最も近いのはどれか。",
+    "options": [
+      "71V",
+      "50V",
+      "100V",
+      "35V"
+    ],
+    "answer": 0,
+    "explanation": "正弦波の最大値＝実効値×√2 ≈ 50×1.414＝71V。実効値が最大値ではない。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0093",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "正弦波交流の実効電圧が120Vであるとき、最大電圧に最も近いのはどれか。",
+    "options": [
+      "120V",
+      "240V",
+      "170V",
+      "85V"
+    ],
+    "answer": 2,
+    "explanation": "正弦波の最大値＝実効値×√2 ≈ 120×1.414＝170V。実効値が最大値ではない。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0094",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "同材質の導体について、元の導体より長さを2倍、断面積を1倍にした。電気抵抗は何倍になるか（温度一定）。",
+    "options": [
+      "2倍",
+      "1倍",
+      "0.5倍",
+      "4倍"
+    ],
+    "answer": 0,
+    "explanation": "R＝ρL/A。抵抗比＝長さの倍率/断面積の倍率＝2/1＝2倍。断面積が大きくなるほど抵抗は小さくなる。",
+    "lesson": "resistance-wire",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0095",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "同材質の導体について、元の導体より長さを3倍、断面積を2倍にした。電気抵抗は何倍になるか（温度一定）。",
+    "options": [
+      "0.6667倍",
+      "6倍",
+      "0.1667倍",
+      "1.5倍"
+    ],
+    "answer": 3,
+    "explanation": "R＝ρL/A。抵抗比＝長さの倍率/断面積の倍率＝3/2＝1.5倍。断面積が大きくなるほど抵抗は小さくなる。",
+    "lesson": "resistance-wire",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0096",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "同材質の導体について、元の導体より長さを4倍、断面積を4倍にした。電気抵抗は何倍になるか（温度一定）。",
+    "options": [
+      "0.0625倍",
+      "16倍",
+      "1倍",
+      "2倍"
+    ],
+    "answer": 2,
+    "explanation": "R＝ρL/A。抵抗比＝長さの倍率/断面積の倍率＝4/4＝1倍。断面積が大きくなるほど抵抗は小さくなる。",
+    "lesson": "resistance-wire",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0097",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想抵抗3Ωと6Ωを並列接続した合成抵抗はどれか。",
+    "options": [
+      "9Ω",
+      "3Ω",
+      "2Ω",
+      "18Ω"
+    ],
+    "answer": 2,
+    "explanation": "並列はR＝R1R2/(R1＋R2)＝18/(3+6)＝2Ω。最も小さい枝の抵抗値より小さい。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0098",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想抵抗4Ωと12Ωを並列接続した合成抵抗はどれか。",
+    "options": [
+      "16Ω",
+      "3Ω",
+      "48Ω",
+      "4Ω"
+    ],
+    "answer": 1,
+    "explanation": "並列はR＝R1R2/(R1＋R2)＝48/(4+12)＝3Ω。最も小さい枝の抵抗値より小さい。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0099",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想抵抗8Ωと8Ωを並列接続した合成抵抗はどれか。",
+    "options": [
+      "16Ω",
+      "64Ω",
+      "4Ω",
+      "8Ω"
+    ],
+    "answer": 2,
+    "explanation": "並列はR＝R1R2/(R1＋R2)＝64/(8+8)＝4Ω。最も小さい枝の抵抗値より小さい。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0100",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想抵抗5Ωと20Ωを並列接続した合成抵抗はどれか。",
+    "options": [
+      "100Ω",
+      "4Ω",
+      "5Ω",
+      "25Ω"
+    ],
+    "answer": 1,
+    "explanation": "並列はR＝R1R2/(R1＋R2)＝100/(5+20)＝4Ω。最も小さい枝の抵抗値より小さい。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0101",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の主音響装置と地区音響装置の役割の説明として正しいものはどれか。",
+    "options": [
+      "主音響は受信機周辺の管理者等に、地区音響は建物内の在館者等に火災を知らせる。",
+      "主音響装置と地区音響装置は同じ出力先を持ち、設置位置だけで分類される。",
+      "地区音響装置は地区を表示するだけで鳴動機能を持たず、主音響装置が館内全域を報知する。",
+      "主音響は建物内の在館者だけを対象とし、地区音響は受信機管理者だけを対象とする。"
+    ],
+    "answer": 0,
+    "explanation": "主音響と地区音響は警報を知らせる先が異なる。受信機の火災表示と音響の作動も分けて点検する。",
+    "lesson": "fire4-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0102",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の火災表示と音響停止の関係として正しいものはどれか。",
+    "options": [
+      "音響を止めた時点で原因が復旧したと法令上断定できる。",
+      "音響停止操作をしていても、受信機の火災表示が残ることがある。",
+      "音響を止めると必ず感知器からの火災信号が物理的に消失する。",
+      "火災表示中なら地区ベルが停止状態になることはない。"
+    ],
+    "answer": 1,
+    "explanation": "表示・音響・火災信号は別の機能。試験・点検後の停止解除と復元が必要。",
+    "lesson": "receiver-role",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0103",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "定温式感知器と差動式感知器の説明について、最も適切なものはどれか。",
+    "options": [
+      "定温式は温度上昇速度、差動式は所定温度への到達だけを検出する。",
+      "定温式は所定温度への到達、差動式は一定時間の温度上昇に着目する。",
+      "定温式は煙の減光、差動式は煙の散乱光を主に検出する。",
+      "両者は常に同じ設定温度に到達すると同時に作動する。"
+    ],
+    "answer": 1,
+    "explanation": "定温式と差動式は熱を利用するが、検出の着眼点が異なる。状況に応じて選ぶ。",
+    "lesson": "heat-fixed",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0104",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "差動式スポット型感知器の動作原理を説明したものとして最も適切なのはどれか。",
+    "options": [
+      "急な温度上昇に伴う空気の膨張などを利用する方式がある。",
+      "煙粒子による光の散乱を必ず利用する。",
+      "定温式と同じく、所定の絶対温度への到達だけで動作を判定する。",
+      "ガス漏れによる電気伝導度の変化を必ず利用する。"
+    ],
+    "answer": 0,
+    "explanation": "差動式は温度上昇の速さに反応する方式。スポット型には空気の膨張などを利用する方式がある。",
+    "lesson": "heat-rate",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0105",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "補償式スポット型感知器の説明として適切なのはどれか。",
+    "options": [
+      "感知器の警戒区域を必ず二分する機器である。",
+      "煙の光学濃度だけを検出する方式である。",
+      "差動式分布型の空気管と同じ長い管を必ず用いる。",
+      "温度の急な上昇と所定温度への到達に対応する性質を併せ持つ。"
+    ],
+    "answer": 3,
+    "explanation": "補償式は差動式と定温式の性質を組み合わせる。分布型の方式とは別。",
+    "lesson": "heat-comp",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0106",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "差動式分布型感知器の空気管式について正しいものはどれか。",
+    "options": [
+      "管内の空気圧ではなく、導体の熱起電力を測る。",
+      "管内の気体の化学組成の変化を利用する。",
+      "空気管の中の空気の膨張変化などを検出部で検出する。",
+      "検出部を用いず、空気管のみで火災信号を送信する。"
+    ],
+    "answer": 2,
+    "explanation": "空気管式は空気の熱膨張を利用。管の露出部分・長さは規則23条の基準がある。",
+    "lesson": "heat-pipe",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0107",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "熱電対式の差動式分布型感知器が利用する現象はどれか。",
+    "options": [
+      "異種金属接点の温度差によって生じる熱起電力。",
+      "空気管内の気圧上昇を熱電対で機械的に検出する。",
+      "異種金属接点の温度差にかかわらず一定の抵抗値だけを監視する。",
+      "炎の紫外線だけを検知する方式である。"
+    ],
+    "answer": 0,
+    "explanation": "熱電対は温度差と起電力の関係を利用する。熱半導体式や空気管式とは原理が異なる。",
+    "lesson": "heat-thermo",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0108",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "熱半導体式の差動式分布型感知器の説明として適切なのはどれか。",
+    "options": [
+      "煙を吸引するポンプの流量だけを測定する。",
+      "温度を利用しない感知器なので熱感知器には分類しない。",
+      "半導体素子の温度依存性を利用して熱的変化を電気信号として取り出す。",
+      "紫外線が直接目に入ったことだけで作動する。"
+    ],
+    "answer": 2,
+    "explanation": "熱半導体式は温度による素子の特性変化を利用する。熱電対式と混同しない。",
+    "lesson": "heat-thermo",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0109",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "光電式スポット型煙感知器が主に利用する現象はどれか。",
+    "options": [
+      "煙粒子による電離電流の低下を主な検出原理とする。",
+      "炎から放射される赤外線の強度だけを監視する。",
+      "検出部に入った煙が光を散乱・減衰させる現象。",
+      "熱により空気が膨張して膜が変形する現象を主に利用する。"
+    ],
+    "answer": 2,
+    "explanation": "光電式煙感知器は煙と光の相互作用を利用する。熱感知器の原理と区別する。",
+    "lesson": "smoke-optical",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0110",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "イオン化式煙感知器について正しいものはどれか。",
+    "options": [
+      "煙による光の減衰のみを利用し放射線源は使わない。",
+      "煙粒子等による検出室内のイオン化電流の変化を利用する。",
+      "発信機の押しボタンが操作されたことだけを検出する。",
+      "空気管内の温度上昇速度だけで火災を検出する。"
+    ],
+    "answer": 1,
+    "explanation": "イオン化式は電離電流を利用。光電式の光学系とは原理が異なる。",
+    "lesson": "smoke-ion",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0111",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "光電式分離型煙感知器の特徴として適切なのはどれか。",
+    "options": [
+      "受信機が一度作動したら検出部の光軸は無関係となる。",
+      "壁の裏側にあっても光路が遮られなければ煙を必ず検出できる。",
+      "各感知器に必ず100mの空気管を敷設する。",
+      "送光部と受光部を離して光路を作り、煙による光の減衰を利用する。"
+    ],
+    "answer": 3,
+    "explanation": "分離型は光路を確保する方式。設置位置、光軸、障害物を意識して答える。",
+    "lesson": "smoke-beam",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0112",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "炎感知器の説明として適切なのはどれか。",
+    "options": [
+      "差動式感知器の空気管内の圧力変化だけを利用する。",
+      "感知器自身が炎を消火する機能を主に持つ。",
+      "炎感知器は必ず煙を検出してからしか発報できない。",
+      "炎が放射する紫外線・赤外線等を利用する方式がある。"
+    ],
+    "answer": 3,
+    "explanation": "炎感知器は炎の放射を利用。見通しや環境光の影響も考える。",
+    "lesson": "flame-sensor",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0113",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "アナログ式の火災感知器に関する説明として適切なのはどれか。",
+    "options": [
+      "熱や煙の程度に応じた火災情報信号を送る方式がある。",
+      "アナログ式なら受信機や中継器は不要になる。",
+      "火災情報信号は必ず「発報」「非発報」の2値しか持てない。",
+      "アナログ式は発信機を人が押す方式だけを指す。"
+    ],
+    "answer": 0,
+    "explanation": "火災情報信号は熱・煙等の程度に関する情報を含む。単なる発報信号と区別する。",
+    "lesson": "analog-sensor",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0114",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "P型受信機とR型受信機について正しい説明はどれか。",
+    "options": [
+      "P型は必ず煙の光学濃度を直接検知する。",
+      "P型には級の区別がなく、R型には表示機能がない。",
+      "P型では回線・地区を単位とした信号、R型では伝送情報を利用する方式がある。",
+      "R型は火災信号を扱わずガス漏れのみ受ける。"
+    ],
+    "answer": 2,
+    "explanation": "P型・R型は信号処理方式等の分類。どちらも受信機であり検出器そのものではない。",
+    "lesson": "receiver-p",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0115",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "P型2級受信機の接続できる回線数に関する正しい記述はどれか。",
+    "options": [
+      "5以下である。",
+      "接続できる回線数は原則1に限り、5回線はP型3級に認められる。",
+      "回線数は5を超えてもよく、表示試験機能は不要である。",
+      "最大10回線を条件とし、1回線のみの接続は認めない。"
+    ],
+    "answer": 0,
+    "explanation": "受信機規格省令8条2項はP型2級の接続回線数を5以下とする。P型3級の1回線と混同しない。",
+    "lesson": "receiver-p",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0116",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "P型3級受信機の接続可能な回線数として規格に合うのはどれか。",
+    "options": [
+      "1回線。",
+      "2回線。",
+      "5回線。",
+      "10回線。"
+    ],
+    "answer": 0,
+    "explanation": "受信機規格省令8条3項はP型3級を1回線と規定する。P型2級の最大5回線と分けて覚える。",
+    "lesson": "receiver-p",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0117",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "R型受信機の説明として最も適切なものはどれか。",
+    "options": [
+      "伝送情報を利用し、機器識別や信号の扱いを行う方式である。",
+      "R型は受信機ではなく消火薬剤の放射装置である。",
+      "R型には断線や短絡に関する規格要求が存在しない。",
+      "R型は感知器からの信号を受け付けない。"
+    ],
+    "answer": 0,
+    "explanation": "R型は火災信号等を伝送方式で扱う受信機。規格省令9条に断線・短絡検出等の要件がある。",
+    "lesson": "receiver-r",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0118",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "GP型受信機の説明として適切なものはどれか。",
+    "options": [
+      "火災報知とガス漏れ警報を扱うP型系統の受信機である。",
+      "漏電電流だけを監視する第7類専用の受信機である。",
+      "火災信号を発信する押しボタンだけの装置である。",
+      "P型2級の別名でありガス漏れ信号を受け付けない。"
+    ],
+    "answer": 0,
+    "explanation": "GP型はガス漏れ警報機能を扱うP型系統。GR型はR型系統と対応する。",
+    "lesson": "receiver-gp",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0119",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "GR型受信機の説明として適切なものはどれか。",
+    "options": [
+      "火災とガス漏れを扱うR型系統の受信機である。",
+      "GR型は火災信号を扱わず、ガス漏れ信号のみを扱う。",
+      "GR型はP型の回線構成と完全に同じで、火災信号を伝送情報として受信する方式は採らない。",
+      "GR型はR型の受信機機能を持たず、手動発信機からの信号のみを直接送る。"
+    ],
+    "answer": 0,
+    "explanation": "GR型はガス漏れ警報機能を組み合わせたR型系統。Gの有無とP/Rの違いを分けて理解する。",
+    "lesson": "receiver-gp",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0120",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "蓄積式受信機と手動発信機からの火災信号に関する正しい説明はどれか。",
+    "options": [
+      "発信機の火災信号が入る場合には蓄積時間を60秒より長く設定する必要がある。",
+      "手動発信機からの火災信号を検出したとき、蓄積機能を自動解除する規定がある。",
+      "蓄積式受信機は所定時間、感知器からの信号の継続などを確認するが、手動信号は必ず一定時間待たせる。",
+      "蓄積式受信機の蓄積時間は、感知器の種類にかかわらず常に0秒である。"
+    ],
+    "answer": 1,
+    "explanation": "受信機規格省令8条で蓄積時間5秒超60秒以内、発信機の火災信号で解除と定める。非火災報抑制と通報遅延の防止を両立する。",
+    "lesson": "receiver-delay",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0121",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "蓄積式と二信号式の違いとして適切なものはどれか。",
+    "options": [
+      "蓄積式は電源電圧を2倍にする機能、二信号式は電流を2倍にする機能である。",
+      "蓄積式は時間的な確認、二信号式は複数の信号条件による確認を用いる。",
+      "両者はどちらもガス漏れ警報を無効にする機能だけである。",
+      "二信号式では必ず同一回線に蓄積機能を併用することが規格で義務付けられる。"
+    ],
+    "answer": 1,
+    "explanation": "蓄積と二信号は非火災報の抑制方法が異なる。二信号式の該当回線には蓄積機能を持たせない規定もある。",
+    "lesson": "receiver-delay",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0122",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "P型発信機とT型発信機について正しいものはどれか。",
+    "options": [
+      "P型・T型の分類は、受信機に発信する火災信号の自動・手動だけで決まる。",
+      "P型もT型も火災信号は受信機を経由せず、必ず消防機関へ直接送信する。",
+      "P型発信機は手動で火災信号を発し、T型発信機は発信と同時に通話できる方式である。",
+      "P型は通話を必須とし、T型では通話できない。"
+    ],
+    "answer": 2,
+    "explanation": "感知器・発信機規格省令2条の定義。P型とT型は発信機の種類で、押しボタンや通話機能が異なる。",
+    "lesson": "transmitter",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0123",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "中継器の役割として最も適切なものはどれか。",
+    "options": [
+      "中継器は信号を受けても変換・伝送を行わず、音響警報だけを行う。",
+      "中継器の信号処理は受信機とは切り離され、受信機へは何も伝送しない。",
+      "現場機器と受信機の間で信号を中継・変換・伝送する。",
+      "中継器は必ず感知器の熱を測り、受信機に機械式で直接報知する。"
+    ],
+    "answer": 2,
+    "explanation": "中継器は信号の伝送過程に入る機器であり、受信機や音響装置と役割が異なる。",
+    "lesson": "repeater",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0124",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の火災表示は出ているが地区ベルが鳴らない場合、最初に確認する内容として妥当なのはどれか。",
+    "options": [
+      "地区音響の鳴動だけが異常でも、受信機の火災表示が出ていれば感知器全体を交換する。",
+      "停止スイッチ・地区音響回路・電源・音響装置の状態。",
+      "地区ベルが鳴らない場合は常に感知器の検知性能が原因であり、音響回路は確認不要である。",
+      "火災表示が残ったまま音響停止を解除すれば、原因調査は省略できる。"
+    ],
+    "answer": 1,
+    "explanation": "音響に関係する操作・配線・電源を分けて調査する。火災がないことの安全確認も必要。",
+    "lesson": "annunciator",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0125",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "点検中に他設備との連動を遮断した場合、最後に実施すべき処置はどれか。",
+    "options": [
+      "地区音響装置の電源を外したまま退出する。",
+      "連動・音響の停止を解除し、正常状態への復元を確認する。",
+      "次回点検まで停止状態を維持する。",
+      "受信機の異常表示を消すだけにする。"
+    ],
+    "answer": 1,
+    "explanation": "消防庁点検要領は点検後の連動回路や音響の復元を要求する。安全機能を失わせたまま放置しない。",
+    "lesson": "maintenance-flow",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0126",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の予備電源点検について正しい考え方はどれか。",
+    "options": [
+      "外観・表示・劣化・充電状態・所定の機能確認などを、点検要領に従って行う。",
+      "予備電源の外観に異常がなければ容量の点検は全て省略できる。",
+      "主電源の電圧が正常なら予備電源の充電状態も必ず正常と判定できる。",
+      "予備電源は非常時の機能維持に用いず、平常時の表示灯だけに使う。"
+    ],
+    "answer": 0,
+    "explanation": "商用電源と予備電源の機能は異なる。停電時の監視・警報性能を維持できるか確認する。",
+    "lesson": "maintenance-receiver",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0127",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "煙感知器の作動確認について、一般的に適切なものはどれか。",
+    "options": [
+      "型式に対応する加煙試験器具などで作動と受信機側の表示を確認する。",
+      "受信機に警報履歴が残っていれば、煙感知器の現場作動試験は省略してよい。",
+      "加煙試験は受信機での地区表示を確認せず、感知器本体の表示だけで合格判定できる。",
+      "煙感知器では通常、加熱だけで作動試験を行い、加煙試験は使わない。"
+    ],
+    "answer": 0,
+    "explanation": "感知器の方式に応じた試験を行い、信号が受信機へ届くまで確認する。設備停止などの安全手順を守る。",
+    "lesson": "maintenance-detector",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0128",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "熱感知器の作動試験に関する適切な考え方はどれか。",
+    "options": [
+      "受信機の表示は不要で感知器の外形のみを確認すればよい。",
+      "感知器の型式・設置環境に適した試験器を用い、受信機での表示も確認する。",
+      "機器の規格と無関係にライターの直火で加熱することが原則である。",
+      "熱感知器は必ず煙だけで作動試験する。"
+    ],
+    "answer": 1,
+    "explanation": "熱感知器は適切な加熱等の試験方法を用いる。直火や不適切な温度は損傷させる可能性がある。",
+    "lesson": "maintenance-detector",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0129",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "煙感知器の非火災報の原因として可能性があるものはどれか。",
+    "options": [
+      "煙感知器は光の受け方が変わっても反応しない。",
+      "煙感知器の反応はすべて火災による煙である。",
+      "受信機の表示履歴は原因調査に一切関係しない。",
+      "蒸気・粉じん・汚れの影響。"
+    ],
+    "answer": 3,
+    "explanation": "検出原理から、煙以外の微粒子や汚れ等も影響する場合がある。安全確認の後、現地・履歴を調べる。",
+    "lesson": "maintenance-false",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0130",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "2線式監視回路で末端抵抗へ至る導線の一方が完全に断線した。ほかに並列経路がないとすると受信側から見た状態はどれか。",
+    "options": [
+      "必ず正常時と全く同じ抵抗値になる。",
+      "導線が切れると自動的に短絡が発生し0Ωになる。",
+      "導通が失われ、理想的には開放（無限大抵抗）になる。",
+      "末端抵抗の半分の抵抗値になる。"
+    ],
+    "answer": 2,
+    "explanation": "断線は電流経路が切れること。短絡とは異なり、理想的には開放状態になる。",
+    "lesson": "maintenance-wiring",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0131",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "監視回路に終端抵抗を設ける主な理由として最も適切なものはどれか。",
+    "options": [
+      "終端抵抗は感知器の作動温度を設定するためにのみ使われる。",
+      "正常時の所定の電気的状態を作り、末端までの回路異常の識別に役立てる。",
+      "短絡異常だけを検出でき、断線の識別には利用しない。",
+      "終端抵抗は受信機側にのみ設け、末端までの導通監視は必要ない。"
+    ],
+    "answer": 1,
+    "explanation": "終端抵抗は配線の導通状態の判定に使われる。設置位置が手前過ぎるとその先を監視しにくい。",
+    "lesson": "wiring-monitor",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0132",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "2線式監視回路で、2本の信号線が途中で直接接触し、極めて小さい抵抗の経路ができた。この異常はどれか。",
+    "options": [
+      "短絡。",
+      "電線の正常な絶縁。",
+      "開放。",
+      "断線。"
+    ],
+    "answer": 0,
+    "explanation": "短絡は本来の経路以外に低抵抗の通路ができた状態。断線は回路の連続性を失うこと。",
+    "lesson": "wiring-short",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0133",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "直流機器の極性が指定されている。接続について適切なのはどれか。",
+    "options": [
+      "定格電圧が異なっても端子の接続だけ合えば安全である。",
+      "製品の端子・定格・極性を確認して配線する。",
+      "機器の極性表示は装飾なので無条件に無視できる。",
+      "直流の＋と－を入れ替えても全ての機器で必ず正常に動く。"
+    ],
+    "answer": 1,
+    "explanation": "極性と定格電圧は機器の仕様条件であり、間違えると動作不良・故障の原因となる。",
+    "lesson": "wiring-polarity",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0134",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "電線の長さと抵抗・電圧降下の関係について、条件が他に同じなら正しいものはどれか。",
+    "options": [
+      "電線を長くすると抵抗が増え、同じ電流では電圧降下が増える。",
+      "同材質・同断面積なら電線を長くするほど抵抗が減り、電圧降下も減る。",
+      "同材質の電線は長さを2倍にすると抵抗も2倍になるが、電圧降下は同一電流でも必ず半分になる。",
+      "電線の抵抗は長さに比例するが、電流が一定なら電圧降下は抵抗に関係しない。"
+    ],
+    "answer": 0,
+    "explanation": "R＝ρL/A、Vdrop＝IR。長さは抵抗、電流は電圧降下へ影響する。",
+    "lesson": "wiring-length",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0135",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "厨房付近の感知器を選定する際の適切な考え方はどれか。",
+    "options": [
+      "感知器は天井高さの規定と無関係に自由に選べる。",
+      "厨房では消防法令による感知器の選択基準を一切確認しなくてよい。",
+      "どんな厨房でも全ての煙感知器の感度を最大にすれば誤報は発生しない。",
+      "通常時の温度・蒸気・煙の発生と、火災時の検出性能を合わせて法令上の適応を確認する。"
+    ],
+    "answer": 3,
+    "explanation": "誤報を避けつつ必要な火災検知性能を確保する。場所ごとの法令基準と機器の適応性を確認する。",
+    "lesson": "heat-selection",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0136",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "発報履歴に非火災報が多い煙感知器について、適切な調査はどれか。",
+    "options": [
+      "原因を調べず感知器の警戒を恒久的に解除する。",
+      "発報時刻・設置環境・粉じんや蒸気・感知器の汚れなどを確認する。",
+      "受信機の警戒区域と現場の対応関係は調べなくてよい。",
+      "発報履歴は消去し、火災の有無を確認せず全感知器を停止する。"
+    ],
+    "answer": 1,
+    "explanation": "情報を集めて原因を切り分けることが重要。安全確認を省くことはできない。",
+    "lesson": "smoke-trouble",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0137",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の火災表示試験と導通試験の区別として正しいものはどれか。",
+    "options": [
+      "前者は表示等の作動、後者は信号回路の導通を確認する。",
+      "導通試験では感知器の火災検出能力が正常なら配線断線を確認しなくてよい。",
+      "両試験は受信機の型式にかかわらず同一名称で、機能の区分はない。",
+      "表示試験は終端の抵抗値だけ、導通試験は火災表示灯だけを確かめる。"
+    ],
+    "answer": 0,
+    "explanation": "表示試験と回路監視の試験は目的が異なる。受信機規格省令に試験機能の規定がある。",
+    "lesson": "receiver-tests",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0138",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "防排煙設備と連動する自火報の点検について適切なのはどれか。",
+    "options": [
+      "連動先は点検時に無条件に作動させ、関係者への連絡は不要である。",
+      "連動先への影響を事前確認し、遮断した場合は点検終了後に復元する。",
+      "受信機の火災表示さえ確認すれば全ての連動設備を確認したことになる。",
+      "連動を遮断したら復元確認は必要ない。"
+    ],
+    "answer": 1,
+    "explanation": "消防庁の自火報点検要領は連動回路を遮断した場合の復元を求める。連動先の関係者へ配慮する。",
+    "lesson": "receiver-bell",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0139",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "ガス漏れ受信機と自火報の受信機の混同を避ける説明として正しいものはどれか。",
+    "options": [
+      "GR型は消防署長の指令回線だけを扱う機器である。",
+      "ガス漏れ検知器は必ず熱感知器と同じ温度上昇速度だけを検出する。",
+      "GP型は火災信号を扱わないのでP型とは全く関係がない。",
+      "検出する信号の種類と受信機の型式を確認する必要がある。"
+    ],
+    "answer": 3,
+    "explanation": "受信機の型式と入力信号を区別する。GP型・GR型はガス漏れ警報機能を扱える。",
+    "lesson": "gas-leak-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0140",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機と中継器の違いとして最も適切なのはどれか。",
+    "options": [
+      "中継器は必ず一度だけ鳴る地区ベルの別名である。",
+      "受信機と中継器は機器の外観上同じなら機能も同一となる。",
+      "受信機は全体の火災表示や制御を担い、中継器は信号の伝送経路に置かれる。",
+      "受信機は必ず建物から離れた消防署に設置する。"
+    ],
+    "answer": 2,
+    "explanation": "受信機は表示・報知などの中心機器、中継器は信号中継を担う。仕様に応じた役割差がある。",
+    "lesson": "repeater",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0141",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "終端抵抗を受信機の直近に接続し、末端までの長い配線をその後ろに残した。懸念として適切なのはどれか。",
+    "options": [
+      "終端抵抗より先の断線を監視できない構成になる可能性がある。",
+      "末端抵抗の値が配線の長さに比例して増大する。",
+      "終端抵抗以降の配線が自動的に耐火ケーブルへ変わる。",
+      "受信機が全ての感知器をアナログ式へ自動交換する。"
+    ],
+    "answer": 0,
+    "explanation": "監視の基準となる電気的な末端は抵抗の位置。監視すべき回路の末端に置く考え方が基本。",
+    "lesson": "practical-circuit",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0142",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "空気管式差動式分布型感知器の検出部に関する説明で正しいものはどれか。",
+    "options": [
+      "空気管内の電気抵抗が温度で変化し、その抵抗値だけを検知する方式である。",
+      "空気管の温度変化に伴う圧力等の変化を検出する。",
+      "空気管を通った煙の濃さを検出器で光学的に測定する方式である。",
+      "空気管と並設した熱電対の起電力だけを検出する方式である。"
+    ],
+    "answer": 1,
+    "explanation": "空気管式は空気の熱膨張などを利用する。分布型は感知部が広がる方式。",
+    "lesson": "heat-pipe",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0143",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "光電式分離型感知器の光路に障害物が置かれた場合、適切な考え方はどれか。",
+    "options": [
+      "送光・受光の状態が変わり、故障や誤報・不作動の要因となり得る。",
+      "分離型では受光部は不要だから障害物は無関係である。",
+      "遮光によって差動式空気管の内圧が必ず上昇する。",
+      "障害物があれば煙は必ず早く検出される。"
+    ],
+    "answer": 0,
+    "explanation": "光学方式では光路と受光量が重要。分離型の配置・維持には障害物や光軸を考慮する。",
+    "lesson": "smoke-beam",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0144",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "地区音響装置の点検目的として適切なのはどれか。",
+    "options": [
+      "火災報知のために必要な場所で警報が伝わるかを確認する。",
+      "地区音響装置は音響停止の状態でなければ法定点検ができない。",
+      "地区音響装置は受信機の主音響装置と同一の設置場所を必須とする。",
+      "地区音響装置が停止していても受信機表示が出れば適合とみなす。"
+    ],
+    "answer": 0,
+    "explanation": "地区音響装置は人へ知らせる機能。受信機の表示試験とは目的が異なる。",
+    "lesson": "annunciator",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0145",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "設置図から感知器の必要数を判断する際、確認するべき条件はどれか。",
+    "options": [
+      "感知器の種別と取付面の高さだけを確認し、梁や間仕切りによる区域は考慮しない。",
+      "感知区域の面積だけを確認し、感知器の種別・適応面積を考慮しない。",
+      "受信機の回線数だけから必要感知器個数を決め、区画ごとの設置要件を確認しない。",
+      "感知器の種別・取付高さ・感知区域・建物構造と面積。"
+    ],
+    "answer": 3,
+    "explanation": "規則23条は種別、高さ、建物構造、感知区域などで必要数の基準を分ける。",
+    "lesson": "installation-floorplan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0146",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "差動式分布型（空気管式）の空気管の露出部分について、原則として適切なのはどれか。",
+    "options": [
+      "感知区域ごとに100m以上。",
+      "感知区域ごとに5m以下。",
+      "感知区域ごとに20m以上。",
+      "検出部ごとに必ず1m以下。"
+    ],
+    "answer": 2,
+    "explanation": "規則23条4項4号イでは露出部分が感知区域ごとに20m以上。検出部に接続する空気管100m以下の別規定と区別。",
+    "lesson": "installation-pipe",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0147",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "空気管式の一の検出部に接続する空気管の長さの一般的上限として正しいものはどれか。",
+    "options": [
+      "200m以下。",
+      "500m以下。",
+      "100m以下。",
+      "20m以下。"
+    ],
+    "answer": 2,
+    "explanation": "規則23条4項4号ニ。露出部分20m以上と、検出部に接続する全長100m以下を混同しない。",
+    "lesson": "installation-pipe",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0148",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "一般的な一・二種の煙感知器の廊下への設置で、歩行距離による基準として正しいものはどれか。",
+    "options": [
+      "10mにつき1個以上。",
+      "15mにつき1個以上。",
+      "50mにつき1個以上。",
+      "30mにつき1個以上。"
+    ],
+    "answer": 3,
+    "explanation": "規則23条4項7号ヘ等の廊下・通路の歩行距離基準。三種は別値があるため設問の種別を確認する。",
+    "lesson": "installation-smoke",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0149",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "一般的な一・二種の煙感知器を階段へ配置する場合、原則の垂直距離の基準はどれか。",
+    "options": [
+      "5mにつき1個以上。",
+      "45mにつき1個以上。",
+      "30mにつき1個以上。",
+      "15mにつき1個以上。"
+    ],
+    "answer": 3,
+    "explanation": "規則23条4項7号ヘ等。階段は垂直距離15m（一般的な一・二種）で、廊下の歩行距離30mと区別する。",
+    "lesson": "installation-smoke",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0150",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "受信機規格省令で定めるP型2級受信機の接続回線数について正しい記述はどれか。",
+    "options": [
+      "1回線に限る。",
+      "8回線以上である。",
+      "10回線以上である。",
+      "接続できる回線数が5以下である。"
+    ],
+    "answer": 3,
+    "explanation": "規格省令8条2項。P型3級は1回線、P型2級は5以下。両者は別区分である。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0151",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "P型3級受信機について正しい記述はどれか。",
+    "options": [
+      "火災表示試験装置を備える必要は一切ない。",
+      "接続できる回線の数は必ず5である。",
+      "接続できる回線の数は1である。",
+      "接続できる回線の数は10以上である。"
+    ],
+    "answer": 2,
+    "explanation": "規格省令8条3項。P型3級の回線数は1であり火災表示試験機能の規定もある。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0152",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "P型1級受信機の導通試験機能について正しいものはどれか。",
+    "options": [
+      "接続回線数を問わず導通試験の機能は規格上禁止される。",
+      "原則として終端器に至る信号回路の導通を回線ごとに確認できる機能を有する（一回線の例外がある）。",
+      "導通試験は消火器の能力単位の計測だけを目的とする。",
+      "導通試験は設置した機器を必ず全て燃焼させて行う。"
+    ],
+    "answer": 1,
+    "explanation": "規格省令8条1項1号。P型1級の原則と、1回線についての例外を正確に押さえる。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0153",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "蓄積式受信機の蓄積時間の範囲として規格に適合するものはどれか。",
+    "options": [
+      "60秒を超え180秒以内。",
+      "5秒以上120秒以下。",
+      "0秒以上5秒以下。",
+      "5秒を超え60秒以内。"
+    ],
+    "answer": 3,
+    "explanation": "受信機規格省令8条1項7号。「5秒を超え」と「60秒以内」の両端条件を覚える。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0154",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "蓄積式受信機の蓄積時間がちょうど5秒だった。規格省令の一般基準への適否はどれか。",
+    "options": [
+      "蓄積時間に下限の規定はない。",
+      "5秒以内であれば無条件に範囲内。",
+      "5秒以上なので範囲内。",
+      "5秒を超える必要があるため、ちょうど5秒は範囲外。"
+    ],
+    "answer": 3,
+    "explanation": "規格省令8条は5秒「超」60秒「以内」。5.0秒は超えていないので条件に合わない。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0155",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "蓄積式受信機の蓄積時間が60秒だった。規格省令の一般基準との関係で適切なのはどれか。",
+    "options": [
+      "蓄積時間が規格の対象になることはない。",
+      "上限は5秒以下なので範囲外。",
+      "60秒を超えなければならないので範囲外。",
+      "上限は60秒以内なので、時間の値だけ見れば範囲内。"
+    ],
+    "answer": 3,
+    "explanation": "5秒超60秒以内という規定では60秒は含む。ほかの機能要件とは別問題。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0156",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "受信機がP型発信機から火災信号を受けた。蓄積機能について規格上適切なのはどれか。",
+    "options": [
+      "蓄積が終わるまで火災表示は常に禁止する。",
+      "蓄積時間を必ず90秒に延長する。",
+      "蓄積機能を自動的に解除する。",
+      "蓄積機能を永久に解除不能とする。"
+    ],
+    "answer": 2,
+    "explanation": "規格省令8条1項7号。手動発信は明確な火災信号として蓄積解除の扱いがある。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0157",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "二信号式受信機の二信号機能を有する警戒区域の回線について、規格に合うのはどれか。",
+    "options": [
+      "蓄積機能を有しない。",
+      "3信号目がなければ火災信号を受け付けない。",
+      "すべての回線を火災試験の対象外とする。",
+      "蓄積機能を必ず二重に組み込む。"
+    ],
+    "answer": 0,
+    "explanation": "規格省令8条1項8号。二信号式の該当回線には蓄積機能を有しないこと。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0158",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "感知器及び発信機の技術規格に関する説明として正しいものはどれか。",
+    "options": [
+      "規格に適合する製品ならどんな取付高さでも法令上必ず設置できる。",
+      "受験者の住所と学歴だけを定める。",
+      "建物の階数だけを規定し機器性能には一切触れない。",
+      "製品の一般構造や機能・試験などを定め、建物への配置基準とは区別される。"
+    ],
+    "answer": 3,
+    "explanation": "技術規格は機器の性能を定める。設置可能な高さ等は施行規則23条などの別基準。",
+    "lesson": "standard-detector",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0159",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "感知器規格省令の絶縁抵抗試験（定温式感知線型の例外を除く）における測定条件の組合せはどれか。",
+    "options": [
+      "直流50Vの絶縁抵抗計で500Ω以上。",
+      "交流1000Vのテスタで0.5Ω以上。",
+      "交流500Vのテスタで5Ω以上。",
+      "直流500Vの絶縁抵抗計で50MΩ以上。"
+    ],
+    "answer": 3,
+    "explanation": "感知器・発信機規格省令30条では原則DC500V・50MΩ以上。MΩの単位と例外に注意。これは製品規格の試験条件である。",
+    "lesson": "standard-insulation",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0160",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "P型発信機の押しボタンについて、規格の趣旨に合うのはどれか。",
+    "options": [
+      "操作されても火災信号を受信機へ伝達しない構造が原則。",
+      "火災信号の発信は煙感知器の自動動作だけに限定される。",
+      "手動操作で火災信号を確実に伝達できる構造を持つ。",
+      "押しボタンの代わりに必ず消火器を装着する。"
+    ],
+    "answer": 2,
+    "explanation": "感知器・発信機規格省令32条。P型発信機は人がボタンを操作し信号を伝える。",
+    "lesson": "standard-transmitter",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0161",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "押しボタンが自動復帰しない構造のP型発信機について正しいものはどれか。",
+    "options": [
+      "復帰操作を忘れないための措置が必要になる。",
+      "押しボタンは火災信号を伝える役割を持たなくなる。",
+      "操作後の復帰を禁止することが規格の趣旨である。",
+      "押しボタンが復帰しない構造では必ず受信機が不要となる。"
+    ],
+    "answer": 0,
+    "explanation": "感知器・発信機規格省令32条の構造要件。復帰しない押しボタンには忘れ防止措置が必要。",
+    "lesson": "standard-transmitter",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0162",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "R型受信機に必要な試験機能に関する説明として適切なのはどれか。",
+    "options": [
+      "R型では通信信号の伝送機能があるため、外部配線の断線・短絡の検出機能は不要となる。",
+      "所定の火災表示試験や、外部配線の断線・短絡を検出する試験機能などが規格で定められる。",
+      "R型の火災表示試験はP型の試験と同義であり、断線検出を確認する必要はない。",
+      "火災表示が正常なら、導通試験・外部配線の監視機能も無条件に合格となる。"
+    ],
+    "answer": 1,
+    "explanation": "受信機規格省令9条はR型に関する試験機能を定める。P型との方式差があっても外部配線監視は重要。",
+    "lesson": "standard-wire",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0163",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "「火災信号」と「火災情報信号」の違いとして適切なのはどれか。",
+    "options": [
+      "火災信号は煙の程度、火災情報信号は火災発生の有無だけを表す。",
+      "アナログ式の感知器は火災情報信号を一切扱わない。",
+      "前者は火災発生の旨、後者は熱や煙の程度など火災の状態情報を表す。",
+      "火災信号は受信機から感知器へしか送信できず、火災情報信号は発信機のみが発する。"
+    ],
+    "answer": 2,
+    "explanation": "感知器・発信機規格省令2条の定義。火災を知らせる信号と、程度情報を含む信号を区別する。",
+    "lesson": "standard-fire",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0164",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "感知器の「一般構造」に関する技術規格の考え方として妥当なのはどれか。",
+    "options": [
+      "耐久性やほこりへの耐性は性能規格の対象としない。",
+      "信号の確実な発信・保守点検のしやすさ・耐久性などを考慮する。",
+      "確実な信号伝達より保守点検の困難さを優先する。",
+      "感知器は火災情報信号しか発してはならず火災信号を発してはいけない。"
+    ],
+    "answer": 1,
+    "explanation": "感知器・発信機規格省令3条は確実な発信、耐久性、保守点検等の構造要件を定める。",
+    "lesson": "standard-detector",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0165",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "GP型・GR型受信機の「G」が示す機能について適切な説明はどれか。",
+    "options": [
+      "接地抵抗のみを測る分類である。",
+      "受信機が存在しない無線端末のみの分類である。",
+      "感知器の設置高さが必ずGメートルになる分類である。",
+      "ガス漏れ警報の信号を扱う機能を含む分類である。"
+    ],
+    "answer": 3,
+    "explanation": "GP型とGR型はそれぞれP型・R型系統にガス漏れ警報機能を加えた区分。",
+    "lesson": "standard-gas",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0166",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "P型受信機とR型受信機の級・試験機能に関して最も妥当な説明はどれか。",
+    "options": [
+      "P型とR型では名称だけが異なり、どちらも回線数・試験機能の規格は同一である。",
+      "P型では級に応じた回線数や試験機能の要件があり、R型は別の規格条項で機能が定められる。",
+      "P型受信機は級ごとの規格を持たず、R型受信機だけに級別の規格がある。",
+      "P型3級は接続回線数に制限がなく、級別による違いは火災表示の色だけである。"
+    ],
+    "answer": 1,
+    "explanation": "受信機規格省令8条・9条はP型・R型を分けて規定。型式名だけで機能を推測しない。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0167",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "感知器の絶縁抵抗の規格値について、「50MΩ」の意味として正しいものはどれか。",
+    "options": [
+      "50kΩと同じ数値である。",
+      "50mΩ（ミリオーム）と同じ数値である。",
+      "50Ωと同じ数値である。",
+      "50,000,000Ωであり、50Ωとは桁が異なる。"
+    ],
+    "answer": 3,
+    "explanation": "1MΩ＝100万Ω。感知器規格省令30条の原則的な条件は50MΩ以上。単位変換も重要。",
+    "lesson": "standard-insulation",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0168",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "P型2級とP型3級の接続回線数の比較として正しいものはどれか。",
+    "options": [
+      "P型2級は最大5回線、P型3級は1回線。",
+      "P型2級と3級はどちらも必ず10回線以上。",
+      "P型2級は1回線のみ、P型3級は最大5回線。",
+      "P型2級は必ず6回線、3級は必ず2回線。"
+    ],
+    "answer": 0,
+    "explanation": "規格省令8条。2級は5以下、3級は1回線。接続最大数を逆にしない。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0169",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "蓄積式受信機の蓄積時間が61秒だった。一般的な規格の値としてどう評価するか。",
+    "options": [
+      "蓄積時間は0秒以外認められない。",
+      "60秒以内の上限を超えているため範囲外。",
+      "5秒を超えていれば上限は存在しないので適合。",
+      "1分を超えることが蓄積式の必須条件である。"
+    ],
+    "answer": 1,
+    "explanation": "蓄積時間は5秒超60秒以内。61秒は60秒を超えるため規格の範囲外。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0170",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "受信機の導通試験装置は主に何を確認するためのものか。",
+    "options": [
+      "受信機の火災表示灯だけの動作を確認する。",
+      "感知器の熱的作動温度だけを直接測定する。",
+      "終端器に至る監視回路の導通状態。",
+      "終端器の抵抗値によらず受信機側の主音響だけを確認する。"
+    ],
+    "answer": 2,
+    "explanation": "受信機規格省令の導通試験は信号回路等の導通確認。火災表示試験と区別する。",
+    "lesson": "standard-wire",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験対応・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4W001",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "図のA・B・Cに対応する機器の役割をそれぞれ一文で説明しなさい。",
+    "options": [],
+    "answerText": "A（感知器）：熱や煙などを自動検出する。B（受信機）：火災信号を受け表示・報知を制御する。C（地区音響装置）：在館者へ警報音で火災を知らせる。",
+    "explanation": "自動検出、信号の受信、館内報知という3機能を区別する。名称だけでなく「何をする装置か」を書く。",
+    "lesson": "practical-components",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/signal-flow.svg"
+  },
+  {
+    "id": "F4W002",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "図の受信機にA「火災表示」B「音響停止」C「予備電源」の表示がある。各項目が表す機能を説明しなさい。",
+    "options": [],
+    "answerText": "Aは火災を受けたことの表示。Bは音響の停止操作。Cは停電時などに設備機能を維持する予備電源の状態。",
+    "explanation": "点検でBを操作したなら作業終了後の復元が必要。Cの表示は電池の全機能保証とは限らない。",
+    "lesson": "practical-components",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W003",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "図の監視回路の末端に設ける部品名と、その目的を答えなさい。",
+    "options": [],
+    "answerText": "終端器（終端抵抗）。監視回路の正常時の電気的状態を示し、断線等の異常を検出・識別するため。",
+    "explanation": "受信機の近くに抵抗を付けるだけでは、その先の線路を監視できない可能性がある。",
+    "lesson": "practical-circuit",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4W004",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "図の回路AとBはそれぞれ断線・短絡のどちらか。電気的な状態とともに説明しなさい。",
+    "options": [],
+    "answerText": "Aは断線で導線が途切れた開放状態。Bは短絡で二線間に意図しない低抵抗経路ができた状態。",
+    "explanation": "監視回路の異常の二種類を混同しない。開放と低抵抗では受信機から見た状態が逆になる。",
+    "lesson": "practical-circuit",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/open-short.svg"
+  },
+  {
+    "id": "F4W005",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "自動火災報知設備のP型受信機とR型受信機の違いを、火災信号の扱い方に注目して説明しなさい。",
+    "options": [],
+    "answerText": "P型は回線・地区を単位に信号を扱う方式、R型は伝送情報を利用して機器や信号の識別を行う方式である。",
+    "explanation": "どちらも受信機。誤ってP型を発信機の一種としない。",
+    "lesson": "practical-components",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W006",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "定温式スポット型感知器と差動式スポット型感知器の作動原理の違いを答えなさい。",
+    "options": [],
+    "answerText": "定温式は周囲温度が所定の温度に達したとき、差動式は温度が一定時間に急上昇したときに動作する。",
+    "explanation": "両方とも熱感知器だが、温度そのものと上昇速度を区別する。",
+    "lesson": "heat-fixed",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/detector-pair.svg"
+  },
+  {
+    "id": "F4W007",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "光電式煙感知器が煙を検出する仕組みを、光の変化に触れて説明しなさい。",
+    "options": [],
+    "answerText": "煙が検出室に入ると、散乱光や受光量が変化する。その変化を検出して火災信号に利用する。",
+    "explanation": "定温式の検出原理と混同せず、煙による光学的な変化を書く。",
+    "lesson": "smoke-optical",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/smoke-chamber.svg"
+  },
+  {
+    "id": "F4W008",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "図の送光部Sと受光部Rの間に煙が入った。光電式分離型感知器は何を利用して煙を検出するか。",
+    "options": [],
+    "answerText": "煙によってSからRへの光が減衰する現象を利用する。",
+    "explanation": "送光と受光の間に光路があり、遮蔽物による誤報・不作動なども注意が必要。",
+    "lesson": "smoke-beam",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/beam-detector.svg"
+  },
+  {
+    "id": "F4W009",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "炎感知器と煙感知器の検出対象の違いを説明しなさい。",
+    "options": [],
+    "answerText": "炎感知器は炎からの紫外線・赤外線など、煙感知器は煙粒子等による光や電離電流の変化を利用する。",
+    "explanation": "炎・煙・熱という検出対象を区別して答える。",
+    "lesson": "flame-sensor",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/detector-pair.svg"
+  },
+  {
+    "id": "F4W010",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "差動式分布型（空気管式）感知器で、空気管と検出部がそれぞれ何をするか説明しなさい。",
+    "options": [],
+    "answerText": "空気管は監視空間の温度変化で空気の圧力などを変化させ、検出部はその変化を検知する。",
+    "explanation": "煙を吸い込んで検出するのではない。設置時は空気管の長さなどにも規定がある。",
+    "lesson": "heat-pipe",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/air-pipe.svg"
+  },
+  {
+    "id": "F4W011",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "熱電対式と熱半導体式の分布型感知器について、利用する現象をそれぞれ答えなさい。",
+    "options": [],
+    "answerText": "熱電対式は異種金属接点の温度差による起電力、熱半導体式は半導体素子の温度による電気特性の変化を利用する。",
+    "explanation": "両者とも熱を電気信号として検出するが、物理的な仕組みは異なる。",
+    "lesson": "heat-thermo",
+    "source": "消防法施行規則 第23条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/detector-pair.svg"
+  },
+  {
+    "id": "F4W012",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "受信機の「火災表示試験」と「導通試験」の目的をそれぞれ書きなさい。",
+    "options": [],
+    "answerText": "火災表示試験は火災表示等の作動確認、導通試験は終端器までの信号回路の導通確認。",
+    "explanation": "機器自身の表示試験と外部配線の状態確認は異なる。",
+    "lesson": "receiver-tests",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W013",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "蓄積式受信機の蓄積時間の規定と、手動発信機の信号を受けたときの扱いを書きなさい。",
+    "options": [],
+    "answerText": "蓄積時間は5秒を超え60秒以内。発信機の火災信号を検出したときは蓄積機能を自動的に解除する。",
+    "explanation": "数字の「超」「以内」を正確に書き、発信機信号を待たせない理由まで理解する。",
+    "lesson": "receiver-delay",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W014",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "P型発信機とT型発信機の違いを手動発信と通話の観点で説明しなさい。",
+    "options": [],
+    "answerText": "P型は手動で火災信号を送り、T型は発信と同時に通話できる構造を持つ。",
+    "explanation": "感知器とは異なり人が操作する機器。P型受信機とP型発信機を取り違えない。",
+    "lesson": "transmitter",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/signal-flow.svg"
+  },
+  {
+    "id": "F4W015",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "感知器・中継器・受信機の関係を信号の流れとして説明しなさい。",
+    "options": [],
+    "answerText": "感知器からの信号は中継器を介して受信機へ伝送され、受信機が表示や警報を制御する構成がある。",
+    "explanation": "中継器を用いない構成もある。中継器を地区音響装置と混同しない。",
+    "lesson": "repeater",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/signal-flow.svg"
+  },
+  {
+    "id": "F4W016",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "点検時に音響停止と防排煙設備への連動停止をした。終了時に必要な対応を答えなさい。",
+    "options": [],
+    "answerText": "停止した音響と連動を元の状態へ復元し、正常動作可能であることを確認して記録する。",
+    "explanation": "点検は安全機能を一時的に変えるため、復元確認が重要。",
+    "lesson": "maintenance-flow",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W017",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "熱感知器と煙感知器の作動試験では、それぞれどのような刺激を与える機器を使うか。",
+    "options": [],
+    "answerText": "熱感知器には型式に対応した加熱試験器、煙感知器には加煙試験器などを使用する。",
+    "explanation": "機器を傷めない適切な試験器と受信機側の表示確認が必要。",
+    "lesson": "maintenance-detector",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/detector-pair.svg"
+  },
+  {
+    "id": "F4W018",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "煙感知器の非火災報が多発した。原因候補を3つ挙げ、調査の初手を説明しなさい。",
+    "options": [],
+    "answerText": "原因候補：蒸気、粉じん、汚れ（虫や気流なども可）。初めに火災でないことを安全確認し、発報履歴と現場環境を照合する。",
+    "explanation": "非火災報を「誤報だから」と決め付けて警報停止を固定しない。",
+    "lesson": "maintenance-false",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/smoke-chamber.svg"
+  },
+  {
+    "id": "F4W019",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "煙感知器の廊下・階段での一般的な距離基準（一・二種）について、距離の種類と数値を答えなさい。",
+    "options": [],
+    "answerText": "廊下・通路は歩行距離30mにつき1個以上、階段・傾斜路は垂直距離15mにつき1個以上。",
+    "explanation": "どの距離か（歩行／垂直）を書き分ける。三種は別の数値がある。",
+    "lesson": "installation-smoke",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W020",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "感知器の絶縁抵抗試験（定温式感知線型の例外なし）について、試験電圧と最低抵抗値を答えなさい。",
+    "options": [],
+    "answerText": "直流500Vの絶縁抵抗計で測定し、50MΩ以上。",
+    "explanation": "これは製品の技術規格の試験条件。現場で電子回路へ無条件に500Vをかけてよい意味ではない。",
+    "lesson": "standard-insulation",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4W021",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図のRは受信機、S1〜S3は順につながる感知器、？は空欄を表す。監視回路の終端器をどこに配置するか示し、理由を書きなさい。",
+    "options": [],
+    "answerText": "S3よりさらに末端側の「？」に終端器（終端抵抗）を配置する。終端までの回路の断線を監視するため。",
+    "explanation": "受信機近くでは、その先の配線を監視できない場合がある。これは学習用の単純化した系統図で、実際の結線は機器仕様に従う。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4W022",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図の部屋Aは10m×8m、部屋Bは12m×7m。互いに独立した感知区域で、設問条件として各区域の必要数を「70㎡ごとに1個以上」とする。各室に配置すべき最少個数を答えなさい。",
+    "options": [],
+    "answerText": "部屋A：80÷70＝1.14…で2個。部屋B：84÷70＝1.2で2個。合計4個。",
+    "explanation": "部屋ごとに切り上げる。計算例の70㎡はこの設問で与えた仮定値であり、すべての感知器で一律ではない。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W023",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図の部屋Aは10m×8m、Bは12m×7mで壁により独立している。条件は各区域「90㎡ごとに1個以上」。部屋AとBに置く感知器数と合計を求めなさい。",
+    "options": [],
+    "answerText": "部屋Aは80/90より1個、部屋Bは84/90より1個、合計2個。",
+    "explanation": "部屋ごとに必要個数を算定し端数切り上げ。90㎡は設問で仮定した条件で、型式や構造で実際の規定が変わる。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W024",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図の監視回路でRからS1、S2、S3へ順に信号線が続く。途中のS2近くに終端抵抗を置く案の問題点を一つ説明しなさい。",
+    "options": [],
+    "answerText": "S2より先のS3までの配線が監視対象から外れ、S2〜S3で断線が起きても検知しない可能性がある。",
+    "explanation": "監視する区間の末端に終端抵抗を置くのが基本。点検・製図では位置が重要。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4W025",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図の独立した2区画A（80㎡）B（84㎡）について、双方に一つの感知器を置いた図面がある。設問条件は「70㎡につき1個以上」である。不足の有無と修正個数を答えなさい。",
+    "options": [],
+    "answerText": "A・Bとも最低2個必要なので、それぞれ1個不足。両区域に1個ずつ追加して合計4個にする。",
+    "explanation": "合計面積だけで計算して一方へ偏らせず、独立した区域ごとに切り上げる。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W026",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図の部屋A（80㎡）とB（84㎡）を独立区域として描いた。最後の確認で、設問指定の「終端器の記入」以外に確認すべきことを3つ挙げなさい。",
+    "options": [],
+    "answerText": "感知器の種類・必要個数、設置高さ・梁などの配置条件、凡例・配線と警戒区域の対応を確認する。",
+    "explanation": "必要数と配置、結線、凡例の指定を照合する。図面がきれいでも条件違反なら誤答。",
+    "lesson": "drawing-check",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W027",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】図のR—S1—S2—S3の監視回路で、S3の手前の導線が断線した。終端抵抗がS3の末端にある場合、受信側から見える回路の状態を説明しなさい。",
+    "options": [],
+    "answerText": "終端抵抗への導通が失われるため、単純な抵抗監視回路では開放状態として扱われ、断線異常を検出し得る。",
+    "explanation": "この説明は所定の終端抵抗を使う簡略回路について。実設備では回路仕様・診断方式が異なる。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4W028",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】天井の高さ10mの部分に「通常の差動式スポット型」感知器を配置した図案が示された。原則の高さ別の適応種別から問題点を説明しなさい。",
+    "options": [],
+    "answerText": "規則23条では8m以上15m未満の高さに通常の差動式スポット型が適応種別として列挙されないため、そのままの選定は不適切。適応する種別へ変更して検討する。",
+    "explanation": "高天井では熱・煙の到達状況が変わるため、取付面の高さ別の表で種別を確認する。",
+    "lesson": "drawing-base",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W029",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】梁が0.5m突出している感知区域を計画する。熱スポット型と煙感知器の区画の考え方について、規則23条の梁の基準を比較しなさい。",
+    "options": [],
+    "answerText": "熱スポット型では原則0.4m以上突出した梁等で区画する。煙感知器では原則0.6m以上なので、0.5mの梁を同じ扱いにできるとは限らない。",
+    "explanation": "感知区域は梁の高さだけでなく型式によって区画基準が異なる。個別条件や例外は別途確認する。",
+    "lesson": "drawing-base",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4W030",
+    "type": "written",
+    "domain": "drawing",
+    "category": "drawing",
+    "prompt": "【甲4・製図】規則の距離基準を使い煙感知器を廊下・階段に配置する。一般的な一・二種の煙感知器について、廊下と階段に用いる距離と、その種類を書きなさい。",
+    "options": [],
+    "answerText": "廊下・通路は歩行距離30mにつき1個以上、階段・傾斜路は垂直距離15mにつき1個以上。",
+    "explanation": "廊下では歩行距離、階段では垂直距離。全ての感知器種別に同じ値が適用されるわけではない。",
+    "lesson": "drawing-check",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4Q0171",
+    "type": "choice",
+    "domain": "lawc",
+    "category": "lawc",
+    "prompt": "免除なしで受験する甲種第4類と乙種第4類の試験問題数の組合せとして正しいものはどれか。",
+    "options": [
+      "甲4：筆記30問・鑑別5問・製図2問／乙4：筆記45問・鑑別5問。",
+      "甲4：筆記45問・鑑別5問・製図2問／乙4：筆記30問・鑑別5問。",
+      "甲4：筆記45問・鑑別7問／乙4：筆記30問・鑑別5問・製図2問。",
+      "甲4：筆記45問・鑑別5問・製図5問／乙4：筆記30問・鑑別2問。"
+    ],
+    "answer": 1,
+    "explanation": "甲4の筆記は45問、実技は鑑別5問と製図2問。乙4の筆記は30問、実技は鑑別5問。甲4と乙4で筆記の科目配分も異なるため、問題数だけでなく範囲も確認する。",
+    "lesson": "exam-overview",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0172",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "120mAの電流を、A（アンペア）単位で表したものとして正しいのはどれか。",
+    "options": [
+      "1.2A",
+      "0.12A",
+      "0.012A",
+      "120A"
+    ],
+    "answer": 1,
+    "explanation": "m（ミリ）は1000分の1を表す。120mA＝120÷1000A＝0.12A。「0.12」という数字だけでなく、電流の単位がAになっていることも確認する。",
+    "lesson": "electric-unit",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0173",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "回路の一つの節点へ電流2.4Aが流入し、そこから0.9Aと0.7Aが流出している。ほかに枝が1本だけあるとき、その枝を流れる電流はどれか。",
+    "options": [
+      "0.8Aが流入する。",
+      "0.8Aが流出する。",
+      "1.6Aが流出する。",
+      "4.0Aが流入する。"
+    ],
+    "answer": 1,
+    "explanation": "キルヒホッフの電流則は「節点へ入る電流の和＝出る電流の和」。未知の枝をxとすると2.4＝0.9＋0.7＋x。x＝0.8Aで、流出向き。",
+    "lesson": "kirchhoff4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0174",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "直流リレーのコイルに流れる電流を急に遮断したときの現象として最も適切なのはどれか。",
+    "options": [
+      "磁束が急変して、接続先に誘導電圧が生じる場合がある。",
+      "コイルは直流でも常時、電流変化に無関係な一定の逆起電力を発生し続ける。",
+      "コイルの磁界は電流遮断後も永久に同じ大きさのまま保たれる。",
+      "コイルに電流が流れなくなると、巻線抵抗は必ずゼロになる。"
+    ],
+    "answer": 0,
+    "explanation": "コイルには電流の変化を妨げる方向の誘導起電力が生じる。急な遮断で大きいサージが発生する場合があるため、機器の設計ではサージ吸収素子を用いることがある。",
+    "lesson": "induction4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0175",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "電子回路を含む火災受信機の配線について絶縁抵抗を確認する場合、適切な考え方はどれか。",
+    "options": [
+      "測定回路に電源が入っていても、絶縁抵抗計を直結すれば安全に測定できる。",
+      "どの電子機器にも直流1000Vを無条件で印加すれば、絶縁抵抗が正確に測れる。",
+      "回路を安全に停電・分離したうえで、仕様に合った測定方法・試験電圧を選ぶ。",
+      "絶縁抵抗と導通は同じ物理量なので、絶縁抵抗計の代わりに通電中の電流計だけを使う。"
+    ],
+    "answer": 2,
+    "explanation": "絶縁抵抗は漏れ電流の流れにくさを測る。絶縁抵抗計がかける試験電圧で電子部品を損傷する場合があるため、停電・分離・使用機器の仕様確認が必要。実作業は所定の安全手順に従う。",
+    "lesson": "insulation4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0176",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "リレーの非励磁状態では開いており、コイルを励磁したときに閉じる接点の名称はどれか。",
+    "options": [
+      "b接点（常閉）",
+      "a接点（常開）",
+      "c接点の共通端子そのもの",
+      "断線監視用の終端抵抗"
+    ],
+    "answer": 1,
+    "explanation": "a接点は非励磁で開、励磁時に閉。b接点は非励磁で閉、励磁時に開。c接点は切換接点で、共通端子・a側・b側の組合せとして理解する。",
+    "lesson": "a-b-contact",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0177",
+    "type": "choice",
+    "domain": "basic",
+    "category": "basic",
+    "prompt": "単相交流の電源に理想ダイオード1個と負荷抵抗を直列に接続した場合の説明として最も適切なのはどれか。",
+    "options": [
+      "ダイオードは順方向・逆方向のどちらでも同じ電流を流す。",
+      "ダイオード1個で交流の両半周期を同じ極性に反転できる。",
+      "ダイオードが順方向となる半周期に主として電流が流れ、半波整流になる。",
+      "ダイオードを直列にしただけで、負荷両端の電圧は必ず一定の直流になる。"
+    ],
+    "answer": 2,
+    "explanation": "ダイオードは順方向の電流を通しやすく、逆方向を通しにくい。1個だけの整流は半波整流で、電圧は脈動する。全波整流や平滑化には別の回路が必要となる。",
+    "lesson": "diodes4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0178",
+    "type": "choice",
+    "domain": "system",
+    "category": "system",
+    "prompt": "受信機の主電源表示が正常なとき、予備電源の状態について正しい説明はどれか。",
+    "options": [
+      "主電源表示が正常なら、予備電源の容量試験は不要であり必ず良好である。",
+      "予備電源は停電後に初めて接続するものなので、平常時は状態を確認できない。",
+      "主電源の正常表示だけでは予備電源の健全性は判断できず、所定の点検が必要である。",
+      "予備電源が劣化しても、主電源表示から必ず同じ故障を判別できる。"
+    ],
+    "answer": 2,
+    "explanation": "主電源は通常の電力を供給し、予備電源は停電時に設備の必要機能を維持するためのもの。主電源の存在と予備電源の容量は別の状態なので、表示・電池・充電状態等を規定された方法で確認する。",
+    "lesson": "receiver-backup",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0179",
+    "type": "choice",
+    "domain": "law4",
+    "category": "law4",
+    "prompt": "ある受信機の火災表示が「2階東側」を示した。警戒区域を設定する目的について最も適切な説明はどれか。",
+    "options": [
+      "火災の発生したおおよその場所を識別し、初動対応につなげるため。",
+      "警戒区域は感知器1個の適応床面積だけで決まり、受信機の表示とは無関係である。",
+      "警戒区域は必ず建物1棟で一つとし、階ごとの表示は行わないため。",
+      "警戒区域は消防設備等の点検報告書の提出先を分けるための区分である。"
+    ],
+    "answer": 0,
+    "explanation": "警戒区域は火災発生場所を受信機の地区表示等で特定するための区域。感知区域は感知器が監視する範囲に関わり、両者は同義ではない。設計では階・面積・構造などの基準を確認する。",
+    "lesson": "zone-area",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0180",
+    "type": "choice",
+    "domain": "law4",
+    "category": "law4",
+    "prompt": "次のうち、熱スポット型感知器と煙感知器の感知区域を梁で区画する考え方について、原則として正しいものはどれか。",
+    "options": [
+      "梁が天井から0.5m突出する場合、熱スポット型と煙感知器の区画判定は必ず完全に同じになる。",
+      "熱スポット型で0.4m以上、煙感知器で0.6m以上という梁の突出基準を区別して考える。",
+      "煙感知器では突出0.4m以上の梁だけが対象で、熱スポット型には梁による区画がない。",
+      "梁の突出高さだけでなく、どの感知器でも感知区域は必ず建物の延べ面積と同じになる。"
+    ],
+    "answer": 1,
+    "explanation": "消防法施行規則第23条に関係する基準。熱スポット型は0.4m、煙感知器は0.6mという突出高さの違いを利用して区画を判断する。正確な区画は設置条件・例外も確認する。",
+    "lesson": "detection-area",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0181",
+    "type": "choice",
+    "domain": "system",
+    "category": "system",
+    "prompt": "【計算条件を明示】独立した一つの感知区域が120㎡あり、設問ではその型式・設置高さにおける適応床面積が1個あたり70㎡と指定された。この区域に必要な感知器の最小個数はどれか。",
+    "options": [
+      "1個",
+      "2個",
+      "3個",
+      "4個"
+    ],
+    "answer": 1,
+    "explanation": "120÷70≒1.71だから、1個では区域全体をカバーできない。個数は整数なので端数を切り上げ、最低2個。適応床面積70㎡はこの設問の指定条件であり、すべての感知器に共通の数値ではない。",
+    "lesson": "installation-heat",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0182",
+    "type": "choice",
+    "domain": "law4",
+    "category": "law4",
+    "prompt": "自動火災報知設備の感知器の省略可否を判断するとき、最も適切な考え方はどれか。",
+    "options": [
+      "建物の用途を問わず、天井が平らな場所なら感知器は常に省略できる。",
+      "壁で仕切られていない場所なら、消防法令上の感知器配置の確認は不要である。",
+      "建物の設置義務とは無関係に、感知器の省略は機器の価格だけで決定できる。",
+      "省略が認められる場所や条件を関係法令に照らして確認する必要がある。"
+    ],
+    "answer": 3,
+    "explanation": "設置する設備自体の義務と、建物内の個々の場所へ感知器を設置する義務は別の判断。省略は一般論として自由にできるものではなく、場所・用途・構造と法令上の条件で判断する。",
+    "lesson": "installation-space",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0183",
+    "type": "choice",
+    "domain": "system",
+    "category": "system",
+    "prompt": "受信機の予備電源を点検するとき、一般に妥当な確認項目の組合せはどれか。",
+    "options": [
+      "電池の外観・表示・充電状態・所定の機能試験。",
+      "主電源が正常であれば充電状態の確認は省略し、蓄電池の定格電圧だけを見る。",
+      "受信機の火災表示試験が正常なら、予備電源の試験は自動的に合格とする。",
+      "蓄電池の外観だけを確認し、充電状態や所定の機能試験は不要とする。"
+    ],
+    "answer": 0,
+    "explanation": "予備電源は停電時の機能維持に関係する。点検は表示だけでなく、機器仕様と点検要領に沿った項目を確認する。主電源があることだけでは予備電源の健全性は確認できない。",
+    "lesson": "maintenance-backup",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4Q0184",
+    "type": "choice",
+    "domain": "lawc",
+    "category": "lawc",
+    "prompt": "点検中に感知器が所定の試験で作動しない不具合が見つかった。記録と事後対応について正しいものはどれか。",
+    "options": [
+      "同じ地区の別の感知器が作動すれば、不作動の機器は記録せず良好とする。",
+      "受信機の履歴を消去した後は、不作動の事実を点検記録から除外できる。",
+      "不良箇所を点検結果に記録し、原因調査・必要な整備につなげる。",
+      "点検中の発見なら消防設備等の維持義務に関係しないため記録は不要である。"
+    ],
+    "answer": 2,
+    "explanation": "点検で不作動を確認した場合は不良箇所として記録する。点検した事実と設備が法令上適合していることは別。異常原因の調査、関係者への報告、必要な補修・再確認につなげる。",
+    "lesson": "maintenance-record",
+    "source": "消防庁：自動火災報知設備の点検要領",
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/20240910tennkennyouryoukaisei.pdf",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "本試験参考・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4W031",
+    "type": "written",
+    "domain": "practical",
+    "category": "practical",
+    "prompt": "受信機の火災表示は正常に出ているが、地区音響装置が鳴らない。考えられる原因を2つ挙げ、点検でどのように切り分けるか簡潔に説明しなさい。",
+    "options": [],
+    "answerText": "例：地区音響停止スイッチが停止位置にある、または地区ベル回路の断線・電源異常がある。受信機の操作状態を確認し、次に音響回路の導通・電源・装置の作動を所定の手順で確認して切り分ける。",
+    "explanation": "表示が正常でも音響回路が正常とは限らない。原因候補→確認順序→正常状態への復帰までを短文で書く練習。実務では予告・安全確保・機器取扱説明書に従う。",
+    "lesson": "practical-reason",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "鑑別等記述式・オリジナル",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0300",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "甲種消防設備士が、法第17条の14の届出対象となる第4類設備の工事を行う。着工届の届出時期と届出者として適切な組合せはどれか。",
+    "options": [
+      "工事着手の10日前まで・甲種消防設備士",
+      "工事完了後4日以内・甲種消防設備士",
+      "工事着手の10日前まで・防火対象物の関係者のみ",
+      "工事完了後10日以内・乙種消防設備士"
+    ],
+    "answer": 0,
+    "explanation": "消防法第17条の14は、政令で定める工事を行う甲種消防設備士に、工事着手日の10日前までの着工届を求める。「設置届」の完了後4日以内とは手続きと届出者が異なる。設問が届出対象工事であることが重要。",
+    "lesson": "construction-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0301",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防法令上、所定の防火対象物に設置した消防用設備等について、設置後の届出を行う者と通常の届出期限の組合せとして適切なものはどれか。",
+    "options": [
+      "工事を行った甲種消防設備士・工事着手の10日前",
+      "防火対象物の関係者・設置工事完了後4日以内",
+      "消防設備点検資格者・工事完了後30日以内",
+      "防火対象物の関係者・最初の機器点検の6か月後"
+    ],
+    "answer": 1,
+    "explanation": "消防法第17条の3の2、消防法施行規則第31条の3に係る設置後の届出では、原則として防火対象物の関係者が工事完了後4日以内に届出を行う。着工届（甲種消防設備士・着工10日前）と主語も時期も入れ替えない。",
+    "lesson": "construction-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0302",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防設備士が業務に従事するときの消防設備士免状について、消防法第17条の13に照らして正しいものはどれか。",
+    "options": [
+      "工事では携帯するが整備のみなら携帯しなくてよい。",
+      "携帯義務は甲種にだけあり乙種にはない。",
+      "業務に従事するときは甲乙を問わず免状を携帯する。",
+      "現場に免状の写真を提示できれば必ず原本の携帯義務は免除される。"
+    ],
+    "answer": 2,
+    "explanation": "消防法第17条の13では、消防設備士は業務に従事するとき免状を携帯する義務がある。乙種による整備も消防設備士の業務。工事だけに限定する例外はない。資格の取得と現場での免状携帯は別の義務。",
+    "lesson": "licence-notice",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0303",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "特定防火対象物であるホテルに設置された消防用設備等について、点検周期と点検結果報告の原則を正しく述べたものはどれか。",
+    "options": [
+      "機器点検1年、総合点検3年、報告6か月",
+      "機器点検6か月、総合点検1年、報告3年",
+      "機器点検3か月、総合点検6か月、報告1年",
+      "機器点検6か月、総合点検1年、報告1年"
+    ],
+    "answer": 3,
+    "explanation": "点検は機器点検が原則6か月、総合点検が1年。報告は特定防火対象物で原則1年、非特定防火対象物で3年。ホテルが特定用途であることと、点検・報告を別制度として覚えるのが重要。",
+    "lesson": "inspection-rate",
+    "source": "消防法",
+    "url": "https://laws.e-gov.go.jp/law/323AC1000000186",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0304",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "消防設備士乙種第4類のみの免状を持つ者について、原則として資格の範囲内となる作業はどれか。",
+    "options": [
+      "自動火災報知設備の新設工事の責任者として消防設備士資格だけで全工事を行う。",
+      "第4類対象設備の整備を行う。",
+      "第6類対象の消火器の整備を乙4の資格だけで行う。",
+      "第4類対象設備の新設工事を乙4の免状のみで行う。"
+    ],
+    "answer": 1,
+    "explanation": "甲種は対象設備の工事と整備、乙種は整備が範囲。乙4は新設工事を担う甲4の代わりにはならない。また乙4免状では乙6など他類の業務を行えない。実際の作業範囲には消防法以外の法令の適用もあり得る。",
+    "lesson": "roles4",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0305",
+    "domain": "lawc",
+    "category": "lawc",
+    "type": "choice",
+    "prompt": "甲種第4類の免除なし筆記試験で、法令7/15問、電気基礎6/10問、構造機能14/20問の正解を得た。この成績の判定として正しいものはどれか。",
+    "options": [
+      "筆記は合計27/45問で60％、各科目40％以上なので筆記基準を満たす。",
+      "合計が60％でも法令は40％未満のため筆記基準を満たさない。",
+      "構造機能が60％未満なので筆記基準を満たさない。",
+      "筆記の合格基準は実技試験と合算して60％なので、まだ判断できない。"
+    ],
+    "answer": 0,
+    "explanation": "法令7÷15＝46.7％、電気6÷10＝60％、構造14÷20＝70％。合計は27÷45＝60％。3科目とも40％以上、筆記全体60％以上を満たす。なお最終合格には実技60％以上が別途必要。",
+    "lesson": "exam-score",
+    "source": "消防試験研究センター：試験科目及び問題数",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0306",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "受信機の火災表示を「1階北」「1階南」に分けた設計の説明として最も適切なものはどれか。",
+    "options": [
+      "感知区域を2つに分けたので、警戒区域や受信機の地区表示には関係がない。",
+      "1階という同じ階にあるため、法令上すべて必ず一つの警戒区域にする。",
+      "受信機で火災発生場所を絞り込めるよう、警戒区域と地区表示を対応させる。",
+      "地区表示は火災を感知する物理的原理の違いだけを識別するものである。"
+    ],
+    "answer": 2,
+    "explanation": "警戒区域は受信機に火災発生箇所を表示するための区域。感知区域は感知器が監視する範囲。受信機の地区表示と区画の対応が取れていると、初動時に現場の絞り込みができる。階・面積・構造などの法令条件が前提。",
+    "lesson": "area-system",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0307",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "定温式スポット型感知器と差動式スポット型感知器の動作の特徴として正しい説明はどれか。",
+    "options": [
+      "どちらも火災の煙が光を散乱する性質で作動する。",
+      "定温式は温度上昇の速度のみを、差動式は一定温度への到達のみを検出する。",
+      "差動式は必ず室温が一定値に達したときだけ作動する。",
+      "定温式は所定温度への到達を、差動式は温度上昇の速さを主に検出する。"
+    ],
+    "answer": 3,
+    "explanation": "定温式は所定温度になったこと、差動式は短時間の温度変化を検出する。遅い温度上昇と急激な温度上昇のどちらを主に捉えるかの違いを考える。煙を光学的に検出するのは光電式煙感知器の原理で別物。",
+    "lesson": "smoke-heat-rule",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0308",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "自動火災報知設備の設置義務の判定について、適切な確認順序として正しいものはどれか。",
+    "options": [
+      "感知器の型式を先に選んでから、設置義務は機器の取扱説明書だけで判定する。",
+      "施行令の用途・延べ面積・各階や部分の条件を確認し、必要な設備と適用除外を判断する。",
+      "延べ面積が一般面積基準を下回れば、地階・無窓階や追加条件は確認しない。",
+      "建物の受信機の回線数が多ければ、用途区分にかかわらず設置義務を免除する。"
+    ],
+    "answer": 1,
+    "explanation": "設置義務は建物の用途と規模などを基に消防法施行令第21条等で判断する。「原則面積以上」の規定と、地下階・無窓階・特定の部分などの個別要件は別に確認する。感知器の型式は義務を判定した後の設計段階で検討する。",
+    "lesson": "installation-target",
+    "source": "消防法施行令 第21条",
+    "url": "https://laws.e-gov.go.jp/law/336CO0000000037",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0309",
+    "domain": "law4",
+    "category": "law4",
+    "type": "choice",
+    "prompt": "梁の突出高さが0.5mの天井について、一般的な感知区域の区画の考え方として適切な記述はどれか。ただし設問では、熱スポット型の区画基準を0.4m、煙感知器の区画基準を0.6mとする。",
+    "options": [
+      "熱スポット型・煙感知器ともに梁で区画される。",
+      "熱スポット型では区画されるが、煙感知器ではこの梁だけで区画されない。",
+      "熱スポット型では区画されないが、煙感知器では梁で区画される。",
+      "熱スポット型・煙感知器ともに梁で区画されない。"
+    ],
+    "answer": 1,
+    "explanation": "0.5mは0.4m以上で、0.6m未満。したがって設問で指定した区画基準では熱スポット型は区画され、煙感知器はこの梁の高さだけでは区画されない。「0.4」と「0.6」の適用種別を逆にしない。",
+    "lesson": "detection-area",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0310",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "正弦波交流100V（実効値）の電源に、力率0.75の負荷を接続したところ、電流の実効値は12Aだった。有効電力はどれか。",
+    "options": [
+      "900W",
+      "1,200W",
+      "1,600W",
+      "750W"
+    ],
+    "answer": 0,
+    "explanation": "交流の有効電力はP＝V×I×力率。100V×12A×0.75＝900W。100×12＝1200VAは皮相電力で、有効電力と区別する。最大電圧約141Vを使って計算する問題ではない。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0311",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想変圧器の一次巻線数60回、二次巻線数240回。一次に50Vの交流電圧をかけたとき、二次電圧はいくらか。",
+    "options": [
+      "12.5V",
+      "50V",
+      "100V",
+      "200V"
+    ],
+    "answer": 3,
+    "explanation": "理想変圧器の電圧比は巻数比。V2＝V1×N2/N1＝50×240/60＝200V。二次の巻数が一次の4倍なので昇圧し、一次より大きい電圧になる。50÷4としない。",
+    "lesson": "transformer4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0312",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "理想抵抗4Ωと8Ωを直列にし、さらにその全体と6Ωを並列に接続した。合成抵抗はどれか。",
+    "options": [
+      "2Ω",
+      "4Ω",
+      "6Ω",
+      "18Ω"
+    ],
+    "answer": 1,
+    "explanation": "4Ω＋8Ω＝12Ω。これと6Ωが並列なので(12×6)/(12＋6)＝72/18＝4Ω。最初の直列部分を求めてから並列の公式へ代入する。全てを加えると18Ωになり、合成抵抗の性質にも合わない。",
+    "lesson": "series4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0313",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流電源48Vに接続された抵抗負荷に2Aが流れた。消費電力と2時間の電力量の組合せとして正しいものはどれか。",
+    "options": [
+      "96W・48Wh",
+      "24W・48Wh",
+      "96W・192Wh",
+      "192W・96Wh"
+    ],
+    "answer": 2,
+    "explanation": "電力P＝V×I＝48×2＝96W。電力量は電力×時間＝96×2＝192Wh。電力Wと電力量Whを混同しない。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0314",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "一様な導線について、材質を変えず長さを1/2、断面積を1/4にしたとき、抵抗は元の何倍か。",
+    "options": [
+      "2倍",
+      "1/2倍",
+      "1/8倍",
+      "8倍"
+    ],
+    "answer": 0,
+    "explanation": "抵抗R＝ρL/A。新しい抵抗の比は(1/2)/(1/4)＝2。導線が短くなる効果は1/2、断面が細くなる効果は4倍で合わせて2倍。直径を1/4にしたとは書いていないことに注意。",
+    "lesson": "resistance-wire",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0315",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "周波数60Hzの正弦波交流の周期に最も近いものはどれか。",
+    "options": [
+      "60ms",
+      "6.0ms",
+      "16.7ms",
+      "1.67ms"
+    ],
+    "answer": 2,
+    "explanation": "周期T＝1/f＝1/60秒＝0.016666…秒。1秒は1000msなので約16.7ms。周波数と周期は逆数関係。",
+    "lesson": "ac-basics",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0316",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "100µFのコンデンサに20Vを加えた。蓄えられる電荷の大きさはどれか。",
+    "options": [
+      "0.0002C",
+      "0.002C",
+      "0.02C",
+      "0.2C"
+    ],
+    "answer": 1,
+    "explanation": "Q＝CV。100µF＝100×10⁻⁶F＝0.0001F。よってQ＝0.0001×20＝0.002C。µ（マイクロ）は100万分の1という接頭語。",
+    "lesson": "capacitance4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0317",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直流回路の抵抗10Ωに4Aの電流を2分間流した。抵抗で発生するジュール熱（エネルギー）はどれか。",
+    "options": [
+      "160J",
+      "1,600J",
+      "9,600J",
+      "19,200J"
+    ],
+    "answer": 3,
+    "explanation": "電力はP＝I²R＝4²×10＝160W。2分＝120秒だから発生するエネルギーは160×120＝19,200J。W＝J/秒という関係を使う。時間は分から秒へ直す。",
+    "lesson": "electric-power",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0318",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "直列回路に抵抗9Ωと3Ωがあり、全電圧を36Vとする。9Ωの抵抗にかかる電圧はどれか。",
+    "options": [
+      "9V",
+      "12V",
+      "27V",
+      "36V"
+    ],
+    "answer": 2,
+    "explanation": "合成抵抗は9＋3＝12Ω。電流I＝36÷12＝3A。9Ωの両端の電圧はV＝IR＝3×9＝27V。直列回路は電流が共通で、電圧は抵抗値の比に分配される。",
+    "lesson": "ohms4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0319",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗12Ωと6Ωを並列接続して直流24Vを加えた。回路全体の電流はどれか。",
+    "options": [
+      "6A",
+      "4A",
+      "3A",
+      "2A"
+    ],
+    "answer": 0,
+    "explanation": "並列の各枝には同じ24Vがかかる。12Ω枝は24÷12＝2A、6Ω枝は24÷6＝4A。合計6A。合成抵抗は4Ωなので24÷4＝6Aでも検算できる。",
+    "lesson": "parallel4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0320",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "抵抗値4.7kΩ、電流2mAの抵抗素子の両端電圧として正しいものはどれか。",
+    "options": [
+      "0.0094V",
+      "0.94V",
+      "9.4V",
+      "94V"
+    ],
+    "answer": 2,
+    "explanation": "4.7kΩ＝4700Ω、2mA＝0.002A。オームの法則V＝IR＝4700×0.002＝9.4V。kは1000倍、mは1/1000なので、組み合わせると数字同士4.7×2に戻る。",
+    "lesson": "electric-unit",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0321",
+    "domain": "basic",
+    "category": "basic",
+    "type": "choice",
+    "prompt": "節点に2.5Aと0.8Aが流れ込み、1.4Aと未知の電流Iが流れ出している。Iはいくらか。",
+    "options": [
+      "0.3A",
+      "1.9A",
+      "3.3A",
+      "4.7A"
+    ],
+    "answer": 1,
+    "explanation": "キルヒホッフの電流則により流入の和は2.5＋0.8＝3.3A。流出の和は1.4＋I。よってI＝3.3－1.4＝1.9Aで流出方向。",
+    "lesson": "kirchhoff4",
+    "source": "消防試験研究センター：第4類の出題範囲",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/annai/subject.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0322",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機―感知器A―感知器B―感知器C―終端器の順に接続された監視回路がある。受信機直近に終端器を移動させることの問題点として最も適切なのはどれか。",
+    "options": [
+      "終端器は受信機の電圧を高めるため、直近に置くと火災信号が必ず大きくなる。",
+      "終端器が受信機に近いと、回路末端までの断線を監視できない場合がある。",
+      "終端器は感知器に煙を送る装置なので、受信機近くに置くと送煙できない。",
+      "終端器の位置は故障監視と無関係で、どこへ設置しても断線検出機能は変わらない。"
+    ],
+    "answer": 1,
+    "explanation": "終端器は末端の監視抵抗等によって正常時の回路状態を定め、断線時との違いを検出する役割がある。受信機の近くで終端してしまうと、その先の配線が監視対象から外れる構成になりうる。実際の回路の方式・型式に従う。",
+    "lesson": "wiring-monitor",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0323",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "火災受信機の主電源表示灯が点灯しているとき、予備電源について必ず成立することはどれか。",
+    "options": [
+      "充電容量は定格どおりであり、停電時も必ず所定時間動作する。",
+      "受信機は予備電源を使用しない仕様である。",
+      "蓄電池に劣化はなく、点検を省略できる。",
+      "主電源の供給が確認できても、予備電源の健全性は別途点検が必要である。"
+    ],
+    "answer": 3,
+    "explanation": "主電源は通常の電力供給、予備電源は停電に備えるもの。主電源の表示は蓄電池の状態を保証しない。充電状態や所定の機能試験などをメーカー仕様・点検要領に沿って確認する。",
+    "lesson": "receiver-backup",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0324",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "火災受信機から感知器へ向かう監視回路で、途中の導線が切れた。最も適切な説明はどれか。",
+    "options": [
+      "断線とは低抵抗で2線がつながる状態である。",
+      "断線すると回路の抵抗は必ず0Ωになる。",
+      "回路の導通が失われ、受信機の断線監視機能で異常を検知することがある。",
+      "感知器の感度が必ず高くなるだけで、回路監視への影響はない。"
+    ],
+    "answer": 2,
+    "explanation": "断線は電路が切れること。終端器を含む監視回路では正常な回路抵抗と断線時の状態が異なるため、受信機が監視できる構成がある。短絡は線同士が低抵抗でつながることなので別。",
+    "lesson": "wiring-short",
+    "source": "受信機規格省令 第8・9条",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0325",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "受信機の火災表示試験と導通試験の違いについて、正しいものはどれか。",
+    "options": [
+      "火災表示試験は表示などの動作、導通試験は監視回路の接続状態を確認する。",
+      "火災表示試験は蓄電池の容量のみ、導通試験は感知器の感度のみを確認する。",
+      "導通試験を行えば、すべての地区の感知器の熱応答試験も実施したことになる。",
+      "火災表示が正常であれば、配線の途中で断線していても導通試験は必ず正常となる。"
+    ],
+    "answer": 0,
+    "explanation": "火災表示試験と導通試験は対象が違う。表示部が正常でも、受信機から先の配線が断線している場合がある。逆に導通だけ良好でも表示・音響の機能は別に確かめる必要がある。",
+    "lesson": "receiver-tests",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0326",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "光電式スポット型煙感知器について、主な検出原理として適切なものはどれか。",
+    "options": [
+      "天井の温度が所定温度に達したときのバイメタル変位だけを使う。",
+      "煙の流入によって光の散乱などが生じ、受光状態が変化することを利用する。",
+      "空気管内部の膨張圧力だけを測定する。",
+      "煙の濃さに関係なく受信機の操作スイッチを押した回数のみを検出する。"
+    ],
+    "answer": 1,
+    "explanation": "光電式スポット型では発光素子・受光素子等を使って煙による光の変化を捉える。定温式は温度、空気管式は圧力変化を主に利用する。「光電式分離型」では光路上の減衰を利用する。",
+    "lesson": "smoke-optical",
+    "source": "感知器・発信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0327",
+    "domain": "system",
+    "category": "system",
+    "type": "choice",
+    "prompt": "P型とR型の受信機の比較として、最も適切な記述はどれか。",
+    "options": [
+      "P型は回線ごとの信号を区別する構成があり、R型はアドレス等の伝送情報で発信元を識別する方式がある。",
+      "P型はガス漏れ火災警報設備専用であり、火災信号を受信することはない。",
+      "R型は火災信号の入力を受けず、伝送監視の表示だけを行う。",
+      "P型もR型も配線方式は完全に同じで、規格上の区分が存在しない。"
+    ],
+    "answer": 0,
+    "explanation": "一般的なP型は回線によって発報区域を識別する。R型は発信元情報を伝送して識別できる方式で、機器ごとの詳細は型式に従う。試験では受信機の「P／R」の違いと「GP／GR」のガス漏れ機能の違いを区別する。",
+    "lesson": "receiver-p",
+    "source": "受信機規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008019",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0328",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "自動火災報知設備の感知器について、消防法施行規則による設置基準と規格省令による機器規格の違いとして最も適切なのはどれか。",
+    "options": [
+      "設置基準は製品の合格検定番号のみを、規格省令は建物の用途・延べ面積のみを定める。",
+      "規格省令に適合する製品なら、どの場所・高さへも無条件に設置できる。",
+      "感知器の設置位置と感度等の製品性能は、すべて受信機規格省令だけで決まる。",
+      "設置基準は高さ・区域などの配置条件、規格省令は製品の構造・性能などを扱う。"
+    ],
+    "answer": 3,
+    "explanation": "設置基準は建物のどこへ置くか、規格は製品自体がどんな性能を持つかを定める。型式に適合しているだけでは設置義務・配置要件を満たしたとはいえない。消防法施行規則第23条と感知器・発信機の規格を分ける。",
+    "lesson": "standard-detector",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0329",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "受信機の蓄積式の働きとして正しいものはどれか。",
+    "options": [
+      "自動感知器の一時的な信号を確認し誤報を抑えるため、所定の時間処理を行うが、発信機信号には規格上の特別な扱いがある。",
+      "地区ベルの音量を一定時間ごとに大きくする装置であり、火災信号の処理とは無関係である。",
+      "いったん感知器が作動したら、発信機が押されても常に蓄積時間が終わるまで表示を遅らせる。",
+      "火災を検知できない場合に備えて、火災信号を60秒より長く必ず遅らせる仕組みである。"
+    ],
+    "answer": 0,
+    "explanation": "受信機規格省令では蓄積時間の範囲と、手動発信機信号で蓄積を解除する取扱いが規定される。誤報の抑制と手動通報の速さの両立が狙い。蓄積時間を無制限に延ばせるわけではない。",
+    "lesson": "standard-delay",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0330",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "導通試験と絶縁抵抗試験の比較として正しいものはどれか。",
+    "options": [
+      "導通試験は電路のつながり、絶縁抵抗試験は漏れ電流の流れにくさを調べる。",
+      "導通試験では必ず絶縁抵抗がMΩ単位で高いほど良好と判定し、電路の断線は確認しない。",
+      "絶縁抵抗試験は感知器の温度応答を測定する試験である。",
+      "導通試験と絶縁抵抗試験は同一の量を測っているため、目的も測定方法も同じである。"
+    ],
+    "answer": 0,
+    "explanation": "導通試験は流れるべき経路がつながっているか、絶縁抵抗試験は流れてはいけない経路の漏れが少ないかを調べる。どちらも電気的な検査だが目的は逆。高圧を印加する試験では機器の分離などに注意が必要。",
+    "lesson": "standard-insulation",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0331",
+    "domain": "standard",
+    "category": "standard",
+    "type": "choice",
+    "prompt": "受信機の技術規格と点検結果の関係として、最も妥当なものはどれか。",
+    "options": [
+      "機器が型式適合していれば、設置後の点検や維持は不要になる。",
+      "型式適合は製品性能の条件であり、設置後も定期点検・維持が必要である。",
+      "受信機の表示灯が点灯すれば、必ず地区ベルと予備電源も正常である。",
+      "消防法施行規則の設置基準と製品規格が同じ項目なので、型式が分かれば建物の用途判定も不要となる。"
+    ],
+    "answer": 1,
+    "explanation": "技術規格は受信機製品の構造・性能を定める。製品が型式検定に適合することと、設置後の配線・予備電源・連動・表示が正常であることは別。点検は消防法の維持義務に関係する。",
+    "lesson": "standard-receiver",
+    "source": "消防設備関係規格省令",
+    "url": "https://laws.e-gov.go.jp/law/356M50000008017",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "応用・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed"
+  },
+  {
+    "id": "F4H0332",
+    "domain": "practical",
+    "category": "practical",
+    "type": "written",
+    "prompt": "模式図のR（受信機）、S（感知器）、B（地区音響装置）の役割を、それぞれ一文で書きなさい。",
+    "options": [],
+    "answerText": "R：感知器等から信号を受け火災箇所を表示・制御する。S：熱・煙等を自動検知する。B：建物内の利用者に音で警報する。",
+    "explanation": "単に名称を暗記するだけでなく、信号を入力する側と警報を出力する側を区別する。",
+    "lesson": "practical-components",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/signal-flow.svg"
+  },
+  {
+    "id": "F4H0333",
+    "domain": "practical",
+    "category": "practical",
+    "type": "written",
+    "prompt": "受信機―感知器A―感知器B―終端器の回路で、AとBの間が断線した。終端器を回路末端へ設ける理由と、想定される表示を説明しなさい。",
+    "options": [],
+    "answerText": "終端器を末端に置くと回路末端までの導通監視ができ、途中断線で正常な監視状態が崩れるため受信機側で断線等の異常を表示できる構成になる。",
+    "explanation": "受信機の近くで回路を終端すると、その先を監視できない構成になり得る。機器によって検知方法・表示は異なる。",
+    "lesson": "practical-circuit",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4H0334",
+    "domain": "practical",
+    "category": "practical",
+    "type": "written",
+    "prompt": "感知器が発報して受信機に表示されたが、地区音響装置が鳴らない。点検で切り分けるべき箇所を二つ挙げなさい。",
+    "options": [],
+    "answerText": "例：受信機の地区音響停止スイッチ・操作状態／地区音響回路の断線やベル本体の故障。",
+    "explanation": "表示系の作動と音響出力系の作動は別。停止操作と配線・機器・電源を順に切り分ける。",
+    "lesson": "practical-reason",
+    "source": "消防試験研究センター：公開問題",
+    "url": "https://www.shoubo-shiken.or.jp/shoubou/exercise.html",
+    "audiences": [
+      "ko4",
+      "otsu4"
+    ],
+    "difficulty": "記述式・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/receiver-panel.svg"
+  },
+  {
+    "id": "F4H0335",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】独立した2室A＝80㎡、B＝100㎡がある。設問条件として、それぞれ1個当たり70㎡を担当できる同一型式の感知器を使用し、ほかの制約はない。必要個数を室別に示しなさい。",
+    "options": [],
+    "answerText": "A：80÷70＝1.14…より切り上げ2個。B：100÷70＝1.43…より切り上げ2個。合計4個。",
+    "explanation": "合計面積180㎡で一度だけ180÷70を計算すると3個だが、独立した部屋ごとに必要数を求めて切り上げるため、合計は4個となる。設問に指定された適応面積70㎡はすべての感知器に共通する数値ではない。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/floor-plan-a.svg"
+  },
+  {
+    "id": "F4H0336",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図の受信機Rと感知器S1〜S3が一つの監視回路でつながるとき、終端器Eを記入すべき位置と理由を答えなさい。",
+    "options": [],
+    "answerText": "原則として最後の感知器S3より先の監視回路末端にEを設ける。途中の配線断線を監視できるようにするため。",
+    "explanation": "受信機の近くへEを置くだけでは、その先の配線を監視できない場合がある。学習上の模式図であり実施工の結線は型式に従う。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "記述式・本試験参考（オリジナル）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/line-end.svg"
+  },
+  {
+    "id": "F4H0360",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図は壁のない330㎡の一室で、天井から0.5m突出した梁が2本あり、梁で110㎡ずつの3部分になる。設問では熱スポット型は突出0.4m以上で感知区域を区画し、当該型式の適応床面積は1個70㎡と指定する。各感知区域と必要個数を求めよ。",
+    "options": [],
+    "answerText": "梁で3つの感知区域に分かれる。各区域110÷70＝1.571…なので切り上げて2個ずつ。合計は6個。",
+    "explanation": "330÷70を一度だけ計算すると端数を切り上げて5個だが、梁で分かれた各区域は110÷70の切り上げで2個ずつ必要となり、合計6個。区画ごとに計算する意味が分かる。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-beams.svg"
+  },
+  {
+    "id": "F4H0361",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】前問と同じ図について、今回は煙感知器で、設問では梁の突出が0.6m以上の場合のみ感知区域を区画し、当該型式の適応床面積を1個110㎡と指定する。その他の条件は同じ。必要個数を求めよ。",
+    "options": [],
+    "answerText": "梁の突出0.5mは0.6mに満たないので、この梁によっては区画されない。330㎡を一つの感知区域と考え、330÷110＝3個。",
+    "explanation": "同じ部屋・同じ梁でも、感知器の種別によって区域の扱いが異なる場合がある。熱スポット型の場合の区画基準を煙感知器にそのまま適用しない。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-beams.svg"
+  },
+  {
+    "id": "F4H0362",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図は独立した監視回路2系統をもつ受信機Rで、S1・S2は回路1、S3・S4は回路2に属する。各回路の末端監視ができる構成として、終端器Eの位置と個数を示しなさい。",
+    "options": [],
+    "answerText": "回路1はS2の先の末端にEを1個、回路2はS4の先の末端にEを1個。合計2個。",
+    "explanation": "監視方式が終端器による構成では、独立した2回路にそれぞれ末端がある。受信機近くでまとめて1個にすると、末端までの状態が適切に監視できない場合がある。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-two-lines.svg"
+  },
+  {
+    "id": "F4H0363",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図の回路1で受信機Rに断線を示す故障表示が出た。調べた結果、S1とS2の間の導線が断線していた。末端監視の仕組みと、調査で確認すべき箇所を説明せよ。",
+    "options": [],
+    "answerText": "回路1の途中が断線すると末端に設けた終端器までの導通・監視状態が変化するため、対応する受信機が断線として検出する。受信機の回線端子からS1、S1とS2の間の接続部、回路末端の順に導通・配線接続を調べ、原因を切り分ける。",
+    "explanation": "終端器による回線監視は、火災信号の検出とは別に配線の正常性を見張るもの。断線検出方法や機器の表示は型式によって異なるため、実施工・整備では設計図と機器仕様を確認する。",
+    "lesson": "drawing-wiring",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-two-lines.svg"
+  },
+  {
+    "id": "F4H0364",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図の3つの独立室に、設問指定の同一感知器を配置する。適応面積は1個あたり80㎡とし、他の制約はない。室別の最低必要数と合計を答えよ。",
+    "options": [],
+    "answerText": "事務室100㎡：100÷80を切り上げ2個。会議室90㎡：90÷80を切り上げ2個。廊下45㎡：45÷80を切り上げ1個。合計5個。",
+    "explanation": "合計235÷80を切り上げて3個とするのは誤り。壁で独立する感知区域はそれぞれ必要数を計算する。設問指定の80㎡は全機種に共通の規格値ではない。",
+    "lesson": "drawing-plan",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-floorplan.svg"
+  },
+  {
+    "id": "F4H0365",
+    "domain": "drawing",
+    "category": "drawing",
+    "type": "written",
+    "prompt": "【甲4・製図】図に示す事務室100㎡、会議室90㎡、廊下45㎡の3室を、受信機の警戒区域1つで表示する計画がある。図面の検討で「警戒区域」と「感知区域」をどう区別して扱うか説明せよ。",
+    "options": [],
+    "answerText": "警戒区域は受信機で表示する火災場所の区分、感知区域は個々の感知器設置を検討する区画。警戒区域を一つに設定した場合でも、壁で仕切られた3室の感知区域ごとに感知器の配置を判断する。",
+    "explanation": "警戒区域と感知区域は別概念なので、受信機表示の地区数だけから感知器の必要数は決まらない。警戒区域を一つにできるか自体も法令条件を別に確認する。",
+    "lesson": "drawing-base",
+    "source": "消防法施行規則 第23・24条",
+    "url": "https://laws.e-gov.go.jp/law/336M50000008006",
+    "audiences": [
+      "ko4"
+    ],
+    "difficulty": "甲4製図・応用（模式図による記述）",
+    "reviewStatus": "editorial-reviewed",
+    "diagram": "assets/diagrams/class4/advanced-floorplan.svg"
+  }
+]
